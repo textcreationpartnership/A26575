@@ -1,0 +1,2572 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londerias, or, A narrative of the siege of London-Dery which was formed by the late King James the 18th of April, and raised the 1st of August, Anno Dom. 1689 : written in verse / by Joseph Aickin.</title>
+            <author>Aickin, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 113 KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26575</idno>
+            <idno type="STC">Wing A800</idno>
+            <idno type="STC">ESTC R10249</idno>
+            <idno type="EEBO-CITATION">13289914</idno>
+            <idno type="OCLC">ocm 13289914</idno>
+            <idno type="VID">98828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98828)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 444:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londerias, or, A narrative of the siege of London-Dery which was formed by the late King James the 18th of April, and raised the 1st of August, Anno Dom. 1689 : written in verse / by Joseph Aickin.</title>
+                  <author>Aickin, Joseph.</author>
+               </titleStmt>
+               <extent>[6], 76 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. B. and S. P. ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Londonderry (Northern Ireland) --  History --  Siege, 1688-1689.</term>
+               <term>Ireland --  History --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front xml:lang="eng">
+         <div type="title_page">
+            <pb facs="tcp:98828:1"/>
+            <pb facs="tcp:98828:1"/>
+            <p>
+               <hi>Londerias;</hi> OR, A NARRATIVE Of the SIEGE of <hi>London-Dery:</hi> Which was Formed by the Late King <hi>James</hi> the 18th of <hi>April,</hi> and Raiſed the 1ſt. of <hi>Auguſt, Anno Dom.</hi> 1689</p>
+            <p>Written in Verſe by <hi>Ioſeph Atckin.</hi>
+            </p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN:</hi> Printed by <hi>J. B.</hi> and <hi>S. P.</hi> at the back of <hi>Du<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Coffee-Houſe in <hi>Skinner-Row,</hi> for the Aut<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and Sold by him at his <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ool near<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> And by the Bookſeller<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Dublin</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 1699.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:98828:2"/>
+            <pb facs="tcp:98828:2"/>
+            <head>To the Worſhipful the MAYOR: To the Ho<g ref="char:EOLhyphen"/>nourable ROBERT ROCHFORT, Eſq Attorney-General, and Speaker of the Honour<g ref="char:EOLhyphen"/>able Houſe of COM<g ref="char:EOLhyphen"/>MONS, the Recor<g ref="char:EOLhyphen"/>der: And to the Al<g ref="char:EOLhyphen"/>dermen, Burgeſſes, and Free-men of the City of LONDON-DERY.</head>
+            <opener>
+               <salute>Honoured Sirs,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Thought it my Duty to Dedic<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this <hi>Poem</hi> to Your Honours, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have had ſuch a hand in the Subject<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:98828:3" rendition="simple:additions"/> it. Your <hi>Loyalty</hi> and <hi>Sufferings</hi> for the Proteſtant: Intereſt have exceeded that of any other Society of Men: For when all the World judged the Proteſtant Cauſe in <hi>IRELAND</hi> lost, Your <hi>Courage</hi> and <hi>Zeal</hi> Retriev'd it. Had the Late King <hi>JAMES</hi> Subdued Your City, the next Attack had been Fatal to all Proteſtant Countries: But Your Courage and Con<g ref="char:EOLhyphen"/>duct oppos'd the Torrent, that was like to ſweep the Proteſtant. Religion away with it. Your <hi>Sufferings</hi> likewiſe have ſuffici<g ref="char:EOLhyphen"/>ently demonstrated Your Zeal for the Crown of <hi>ENGLAND:</hi> But to attempt Your due Eulogy, were to undertake an Herculean Labour, let the following <hi>Poem</hi> ſpeak the reſt; which deſerved the Pen of a <hi>Homer</hi> or <hi>Virgil</hi> rather. The Acti<g ref="char:EOLhyphen"/>ons and Occurrences of this Famous Siege are ſo Heroick of themſelves, that they needed no ſtrokes of Poetry to ſet them
+<pb facs="tcp:98828:3" rendition="simple:additions"/> off. He that conſiders the uncoath Names made uſe of <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this <hi>Poem,</hi> and how un<g ref="char:EOLhyphen"/>fit they are for Metre, will eaſily pardon the unl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ftineſs of the Stil<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. I have ſeen ſeveral Narratives of the Siege, but all far ſhort of the thing. And I may bold<g ref="char:EOLhyphen"/>ly aver, That no Material Paſſage is wanting in this, having ba<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> my Informa<g ref="char:EOLhyphen"/>tions from good Hands, beſides the Ad<g ref="char:EOLhyphen"/>vantage of the Printed Narratives. I have Stiled Colonel <hi>Adam Murray,</hi> Here, and General; which I am ſure no Man that knew his particular Merits in the Siege, will think unjuſt or unſuitable, eſpe<g ref="char:EOLhyphen"/>cially ſuch as have Read the Printed Nar<g ref="char:EOLhyphen"/>ratives. But to Anticipate all Detracti<g ref="char:EOLhyphen"/>on, I will Inſert the Paragraph upon <hi>London-Dery</hi> out of the great <hi>Hiſtori<g ref="char:EOLhyphen"/>cal</hi> and <hi>Poetical Dictionary,</hi> Publiſhed by Authority. <q>
+                  <hi>London-Dery</hi> was defended by Eight Sakers and Twelve Demicul<g ref="char:EOLhyphen"/>verins;
+<pb facs="tcp:98828:4"/> the People at firſt were there<g ref="char:EOLhyphen"/>unto encouraged to hold out by Colonel <hi>Adam Murray,</hi> who gave frequent proofs of an <hi>unheard of Valour,</hi> in his Sallies upon the Enemies, and killed the French General <hi>Maimont</hi> with his own hands before the Walls.</q> As Your Honours particular concern in the Subject of this <hi>Poem,</hi> moved me to De<g ref="char:EOLhyphen"/>dicate it to You, ſo alſo the Opportunity of knowing the Truth of the Actions en<g ref="char:EOLhyphen"/>courages me to expect Your Protection: For You are the beſt Judges of the Matter of Fact. That Your City may be for ever Perſerved from all ſuch Popiſh Innovations, and from all Inſults of Foreign and Do<g ref="char:EOLhyphen"/>meſtick Enemies, ſhall be the daily Prayer of Your Honours,</p>
+            <closer>
+               <signed>
+                  <hi>Moſt Obedient Servant and Orator,</hi> J. A.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div n="1" type="book">
+               <pb n="1" facs="tcp:98828:4"/>
+               <head>
+                  <hi>Londeriados.</hi> Lib. I.</head>
+               <p>Containeth the Occaſion of the War, <hi>viz.</hi> The great growth of <hi>Popery,</hi> in <hi>England, Scotland</hi> and <hi>Ireland,</hi> in the late King <hi>James</hi>'s Reign, his attempting to repeal the Pe<g ref="char:EOLhyphen"/>nal Laws, and the committing the Biſhops to the Tower for oppoſing it. The Prince of <hi>Orange</hi> being invited, enters <hi>England</hi> with an Army, and reſcues it from <hi>Popery</hi> and <hi>Slavery:</hi> K. <hi>James</hi> flies to <hi>France,</hi> and begs Aid to re<g ref="char:EOLhyphen"/>inforce his Army in <hi>Ireland</hi> under <hi>Talbot;</hi> He obtains Six Thouſand <hi>French;</hi> Lands in <hi>Ireland,</hi> and calls a Parliament, and breaks the Engliſh <hi>Eſtabliſhment;</hi> which forced the Proteſtants in the <hi>North</hi> of <hi>Ireland</hi> to riſe in Arms to defend themſelves: <g ref="char:V">Ʋ</g>pon which he calls a Coun<g ref="char:EOLhyphen"/>cil of War, and ſends an Army to reduce them. The Number and Quality of K. <hi>James</hi>'s Army, their March to the <hi>North.</hi> The Number and Quality of the Prote<g ref="char:EOLhyphen"/>ſtant Forces: Their General <hi>Londee</hi>'s Treachery, their defeat at <hi>Cladyford,</hi> and Retreat to <hi>London-dery:</hi> and the approach of the <hi>Iriſh</hi> and <hi>French</hi> Forces to <hi>London-dery.</hi>
+               </p>
+               <div n="1" type="section">
+                  <head>Sect. 1.</head>
+                  <l>I Sing the Men, who <hi>Dery</hi> did <hi>reſtore</hi>
+                  </l>
+                  <l>To the condition, as it was before.</l>
+                  <l>They taught the French that Cities might withſtand</l>
+                  <l>Their Storms and Bombs under a good command.</l>
+                  <pb n="2" facs="tcp:98828:5"/>
+                  <l>Why ſhould Heroick Deeds in ſilence be?</l>
+                  <l>Since Poets are of the Fraternity.</l>
+                  <l>Aſſiſt me Muſe? whilſt I the Siege do ſing,</l>
+                  <l>Into my <hi>mem'ry</hi> all the matter bring?</l>
+                  <l>Inſpire my tongue? when I the cauſes tell,</l>
+                  <l>How the <hi>dire War,</hi> how this <hi>fam'd Siege</hi> befell;</l>
+                  <l>How the <hi>Townſtands,</hi> how the proud foe advance,</l>
+                  <l>How they're repuls'd, and who great fame enhanſe.</l>
+               </div>
+               <div n="2" type="section">
+                  <head>
+                     <hi>Sect. 2.</hi> The Occaſion of the War.</head>
+                  <l>THe <hi>Popiſh bigots</hi> did ſo far prevail,</l>
+                  <l>As to attempt the <hi>Penal Laws</hi> repeal;</l>
+                  <l>Which being oppos'd by the ſeven mitred lights,</l>
+                  <l>King <hi>James</hi> commits them to the Tower to rights.</l>
+                  <l>This daring Action open'd <hi>Englands</hi> Eye,</l>
+                  <l>To ſee their loſs of Truth and Liberty:</l>
+                  <l>The <hi>Prince of Orange</hi> they did then Invite</l>
+                  <l>To enter <hi>England,</hi> and ſupport their Right.</l>
+                  <l>The gen'rous Prince, but now our lawful King,</l>
+                  <l>Did only thirteen thouſand with him bring;</l>
+                  <l>Who reſcu'd <hi>England</hi> ſoon from <hi>Popery,</hi>
+                  </l>
+                  <l>And ſent King <hi>James</hi> abroad immediately,</l>
+                  <l>A ſecond time to crave for Foreign Aid;</l>
+                  <l>Who humbly thus to's <hi>Gallick</hi> Brother pray'd.</l>
+               </div>
+               <div n="3" type="section">
+                  <pb n="3" facs="tcp:98828:5"/>
+                  <head>
+                     <hi>Sect. 3.</hi> K. <hi>James</hi>'s Application to the K. of <hi>France</hi> for Aid.</head>
+                  <l>DRead Sir? your poor diſtreſſed Brother <hi>James,</hi>
+                  </l>
+                  <l>Succours according to the League he claims.</l>
+                  <l>
+                     <hi>England</hi> again has forced me to fly,</l>
+                  <l>For life and ſafety to your Majeſty;</l>
+                  <l>I truſted too much to their Non-reſiſtance,</l>
+                  <l>Which makes me now this treachery to inſtance.</l>
+                  <l>The <hi>Prince of Orange</hi> has uſurp't my Throne;</l>
+                  <l>And now there's nothing I can call my own:</l>
+                  <l>
+                     <hi>Ireland</hi> excepted, where <hi>Tyrconnel</hi> ſtands,</l>
+                  <l>Loyal and Faithful to my juſt demands:</l>
+                  <l>He forty thouſand Native Iriſh hath,</l>
+                  <l>Who in my Cauſe will ſpend their deareſt breath.</l>
+                  <l>There's <hi>Maxwell, Mackarty</hi> and <hi>Hamilton,</hi>
+                  </l>
+                  <l>Brave <hi>Sarsfield, Shelden</hi> and <hi>Teague-O Regan:</hi>
+                  </l>
+                  <l>Fit to Conduct our Forces in that Land;</l>
+                  <l>Who will be Faithful to Our juſt Command.</l>
+                  <l>But in the <hi>North</hi> a ſtubborn City lies,</l>
+                  <l>On which I've cauſe to look with jealous eyes.</l>
+                  <l>It's <hi>Dery</hi> call'd, and fully cramb'd by thoſe,</l>
+                  <l>That <hi>Roman Doctrine</hi> and its Friends oppoſe.</l>
+                  <l>Beſides the <hi>Lord Montjoy,</hi> I fear him more,</l>
+                  <l>Than all the Subjects on the Iriſh ſhore:</l>
+                  <l>Him the <hi>Scots-Party</hi> have choſe for their Guide</l>
+                  <l>And vow'd to fight in no Command beſide.</l>
+                  <pb n="4" facs="tcp:98828:6"/>
+                  <l>I Againſt thoſe ſome veteran Troops demand,</l>
+                  <l>To reinforce our Army in that Land.</l>
+               </div>
+               <div n="4" type="section">
+                  <head>
+                     <hi>Sect. 4.</hi> The King of <hi>France</hi>'s Anſwer.</head>
+                  <l>TO him great <hi>Lewis</hi> gave attentive ear,</l>
+                  <l>And thus reply'd, <hi>Dear Brother</hi> never fear?</l>
+                  <l>With that he drew his Sword, and nobly ſwore,</l>
+                  <l>I'le never ſheath thee, till I you reſtore.</l>
+                  <l>I'le tranſport over to the Iriſh Coaſt,</l>
+                  <l>Six Thouſand Horſe and Foot out of my Hoſt:</l>
+                  <l>Theſe will ſuffice to open the Campeign;</l>
+                  <l>I'le add ſome more to forward your deſign.</l>
+                  <l>
+                     <hi>Maimont, Lozin</hi> and <hi>Roſe</hi> ſhall Gen'rals be,</l>
+                  <l>Marquis <hi>Anlieur, Boiſton,</hi> and brave <hi>Pontee.</hi>
+                  </l>
+                  <l>And leaſt the Prince ſhould any Troops ſend o're,</l>
+                  <l>I'le cauſe my Fleet ride on the <hi>Iriſh</hi> ſhoar.</l>
+               </div>
+               <div n="5" type="section">
+                  <head>Sect. 5. <hi>The Lord</hi> Montjoy <hi>Priſoner in</hi> France.</head>
+                  <l>WHilſt one thus prays, &amp; t'other thus replies</l>
+                  <l>Behold Expreſſes from <hi>Tyrconnel</hi> flyes;</l>
+                  <l>To the <hi>French</hi> Court; 'mongſt whom for to decoy</l>
+                  <l>They ſent the Brave and Noble Lord <hi>Montjoy:</hi>
+                  </l>
+                  <l>Pretending to conſult King <hi>James</hi>'s mind,</l>
+                  <l>If <hi>Talbot</hi> might the Government reſign.</l>
+                  <pb n="5" facs="tcp:98828:6"/>
+                  <l>But he could ſcarce his Errand fully tell,</l>
+                  <l>Till he was ſent Pris'ner to the Baſtile.</l>
+                  <l>The <hi>Dery</hi> Party their great loſs ſolace,</l>
+                  <l>And all their hopes in <hi>Adam Murray</hi> place;</l>
+                  <l>For <hi>Londee</hi> he was treacherous and baſe.</l>
+                  <l>And thus our <hi>Hero</hi> ſecretly prepares,</l>
+                  <l>All things convenient for the bloody Wars;</l>
+                  <l>He <hi>view'd Londee</hi> with a careful eye,</l>
+                  <l>And daily checks his ſubtile treachery,</l>
+               </div>
+               <div n="6" type="section">
+                  <head>Sect, 6. <hi>King</hi> James <hi>lands in</hi> Ireland.</head>
+                  <l>MEan time K. <hi>James</hi> lands on the <hi>Iriſh</hi> Coaſt,</l>
+                  <l>In greateſt ſpendor with his <hi>Gallick</hi> Hoſt.</l>
+                  <l>Great was the joy and triumphs of that day;</l>
+                  <l>For th'Iriſh began to divide the prey:</l>
+                  <l>Nor King nor <hi>Talbot</hi> could reſtrain their pride,</l>
+                  <l>For they did all the Engliſh lands divide</l>
+                  <l>This being done, the next and greateſt care,</l>
+                  <l>Was to take meaſures for the future War.</l>
+                  <l>The Engliſh Lords, People and Clergy fly,</l>
+                  <l>Who leave the Kingdom to the Iriſh ſway;</l>
+                  <l>And <hi>Maſs</hi> is ſung in <hi>Chriſt</hi>-Church ev'ry day.</l>
+                  <l>Only the <hi>North</hi> withſtands their furious rage,</l>
+                  <l>And does bad ſucceſs to their arms preſage.</l>
+                  <l>Which to reduce, they us'd a thouſand tricks,</l>
+                  <l>But all in vain were th' Iriſh Politicks.</l>
+                  <pb n="6" facs="tcp:98828:7"/>
+                  <l>Threats and rewards with them will take no place,</l>
+                  <l>Nought can force them th'Iriſh yoak t'embrace.</l>
+               </div>
+               <div n="7" type="section">
+                  <head>
+                     <hi>Sect. 7.</hi> King <hi>James</hi>'s Council of War.</head>
+                  <l>THerefore King <hi>James</hi> calls a Council of War,</l>
+                  <l>And plainly ſtates the matter as they are;</l>
+                  <l>You know, my Friends? the Northern Hereticks</l>
+                  <l>Have ſtill withſtood our milder Politicks;</l>
+                  <l>There's nought can conquer them but dint of ſword,</l>
+                  <l>We muſt uſe force, I ſee, upon my word.</l>
+                  <l>I've call'd you hither for your ſound advice,</l>
+                  <l>Lets think how we may do it in a trice.</l>
+                  <l>If <hi>England</hi> ſuch true <hi>Friends</hi> as you had bred,</l>
+                  <l>I ne're had bow'd unto the <hi>French</hi> for aid.</l>
+               </div>
+               <div n="8" type="section">
+                  <head>Sect. 8. Tyrconnels <hi>Speech.</hi>
+                  </head>
+                  <l>UP ſtarts <hi>Tyrconnel,</hi> and he thus declaim'd,</l>
+                  <l>In my Opinion we may be aſham'd,</l>
+                  <l>To ſuffer ſuch a <hi>Bo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>riſh</hi> number ſtand,</l>
+                  <l>In oppoſition to our juſt Command.</l>
+                  <l>Ten Thouſand of your Maieſty's beſt Troops,</l>
+                  <l>Will them reduce and fruſtrate all their hopes:</l>
+                  <l>Send all the <hi>French</hi> and our beſt <hi>Cavalry,</hi>
+                  </l>
+                  <l>Thus we may end the War immediately.</l>
+               </div>
+               <div n="9" type="section">
+                  <pb n="7" facs="tcp:98828:7"/>
+                  <head>Sect. 9. Sarsfield<hi>'s Opinion.</hi>
+                  </head>
+                  <l>'GAinſt whoſe Opinion <hi>Sarsfield</hi> do's enveigh,</l>
+                  <l>And ſtates the matter clear another way.</l>
+                  <l>My Liege? Ten thouſand thrice will ſcarce ſuffice,</l>
+                  <l>To grapple with ſuch ſtubborn Enemies:</l>
+                  <l>For we muſt firſt oppoſe them in the Plain,</l>
+                  <l>And then ſuppoſe ſome of our Troops be ſlain;</l>
+                  <l>Where's a juſt number to puſh on a Siege?</l>
+                  <l>
+                     <hi>Dery</hi> will certainly hold out, my Liege?</l>
+                  <l>The valiant <hi>Murray's</hi> Friends dwell in the Town</l>
+                  <l>And all the neighb'ring <hi>Scotsmen</hi> are his own:</l>
+                  <l>He's a ſtout Man, his Trade of late hath bin,</l>
+                  <l>To hunt the Tories, and their Heads bring in:</l>
+                  <l>Let's to the North a puiſſant Army ſend,</l>
+                  <l>If we that City to obtain intend.</l>
+               </div>
+               <div n="10" type="section">
+                  <head>Sect. 10. Teague Oregan<hi>'s Speech.</hi>
+                  </head>
+                  <l>THus the brave <hi>Sarsfield.</hi> Next ſpoke <hi>Teague Oregan,</hi>
+                  </l>
+                  <l>In ſhort my Liege? I am of his Opinion.</l>
+                  <l>Wer't to ſuſtain a Siege, I may boldly tell,</l>
+                  <l>No Man in <hi>Ireland</hi> could my ſelf excell.</l>
+                  <l>To Mann the Counterſcrap and line the breach,</l>
+                  <l>Theſe nobler Arts my better genii teach.</l>
+                  <pb n="8" facs="tcp:98828:8"/>
+                  <l>But to pickeer and skirmiſh I know not;</l>
+                  <l>Theſe are as facil, as to drink a Pot.</l>
+                  <l>Thus <hi>Berwick, Shelden,</hi> and thus all the reſt,</l>
+                  <l>Approve great <hi>Sarsfield</hi>'s Sentence as the beſt.</l>
+               </div>
+               <div n="11" type="section">
+                  <head>
+                     <hi>Sect. 11.</hi> The General's Ordered.</head>
+                  <l>THen in all haſte <hi>Maimont</hi> is order'd forth,</l>
+                  <l>With thirty thouſand to reduce the <hi>North;</hi>
+                  </l>
+                  <l>
+                     <hi>Maimont</hi> whoſe early valour on the <hi>Rhine,</hi>
+                  </l>
+                  <l>'Bove all the <hi>Gallick</hi> Officers did ſhine.</l>
+                  <l>Him the <hi>French King</hi> ſent to aſſiſt King <hi>James,</hi>
+                  </l>
+                  <l>'Gainſt each ſuch Subject as his reign declaimes.</l>
+                  <l>
+                     <hi>Hamilton</hi> likewiſe was next worthy found,</l>
+                  <l>To head the Army on the Iriſh ground.</l>
+                  <l>He that young <hi>Temple</hi> had out-witted ſo,</l>
+                  <l>That nought but death could expiate the blow.</l>
+                  <l>The wretched <hi>Youth</hi> 'gainſt his falſe friend exclaims;</l>
+                  <l>And in deſpair <hi>drown'd</hi> himſelf in the <hi>Thames.</hi>
+                  </l>
+               </div>
+               <div n="12" type="section">
+                  <head>Sect. 12. <hi>King</hi> James<hi>'s Horſe.</hi>
+                  </head>
+                  <l>KIng <hi>James</hi> diſplay'd his Royal Banner then,</l>
+                  <l>To which repair'd theſe Military Men.</l>
+                  <l>The ſound of Drums and Trumpets fills the air;</l>
+                  <l>And every Warlike chief do's haſten there.</l>
+                  <pb n="9" facs="tcp:98828:8"/>
+                  <l>Both Horſe and Foot crow'd daily to the Plain,</l>
+                  <l>And all appear with a moſt gaudy Train.</l>
+                  <l>
+                     <hi>Mars</hi> never look't ſo big in any Field;</l>
+                  <l>With poliſht Armour and bright glittering ſhield.</l>
+                  <l>Of all the gallant Troops that crowded there,</l>
+                  <l>None did ſo brave as <hi>Sarsfield</hi>'s Horſe appear.</l>
+                  <l>Thoſe he had rais'd upon the ſwift <hi>Liffee,</hi>
+                  </l>
+                  <l>And out of <hi>Connaught</hi> where his Friends they be.</l>
+                  <l>Next him came valiant <hi>Parker</hi> with his Men,</l>
+                  <l>On ſtately Geldings prancing o're the plain.</l>
+                  <l>Thoſe he at <hi>Kailes</hi> and <hi>Navan</hi> quickly rais'd;</l>
+                  <l>Then <hi>Tarah,</hi> County <hi>Meath</hi> him greatly prais'd.</l>
+                  <l>Next thoſe <hi>Tirconnel</hi>'s Royal Regiment came,</l>
+                  <l>Who from <hi>Minuth</hi> obtain'd a mighty name:</l>
+                  <l>Though they were of another <hi>core</hi> of old;</l>
+                  <l>But in <hi>Kildare</hi> great <hi>Talbot's</hi> praiſe is told.</l>
+                  <l>Next unto thoſe my Lord <hi>Strabanes</hi> did prance;</l>
+                  <l>
+                     <hi>Fagan of Filtrim</hi> did his Horſe advance.</l>
+                  <l>His Fathers Friends had him forſaken all,</l>
+                  <l>Then for Aſſiſtance he fled to <hi>Fingall.</hi>
+                  </l>
+                  <l>My Lord <hi>Galmoy</hi>'s did from <hi>Kilkenny</hi> ride,</l>
+                  <l>But moſt were rais'd upon the <hi>Barahs</hi> ſide;</l>
+                  <l>His Friends the <hi>Butlers</hi> did his Regiment fill,</l>
+                  <l>And for his Honour did obey his will.</l>
+                  <l>
+                     <hi>Luttrell's</hi> Reg'ment's from <hi>Kings-County</hi> brought,</l>
+                  <l>
+                     <hi>Southerland</hi>'s Reg'ment's from <hi>Tirconnel</hi> ſought.</l>
+               </div>
+               <div n="13" type="section">
+                  <pb n="10" facs="tcp:98828:9"/>
+                  <head>Sect. 13. <hi>King</hi> James<hi>'s Dragoons.</hi>
+                  </head>
+                  <l>THe ſwift Dragoons came next unto the ground,</l>
+                  <l>And plac'd their Standards as they Storage found;</l>
+                  <l>My Lord <hi>Obryan</hi> his Dragoons did raiſe,</l>
+                  <l>Upon the banks of <hi>Shannon;</hi> to whoſe praiſe,</l>
+                  <l>Let future ages their great actions tell:</l>
+                  <l>For they the <hi>Danes</hi> from <hi>Ireland</hi> did expell.</l>
+                  <l>County of <hi>Lowth,</hi> Lord <hi>Dungan</hi> rais'd his Men,</l>
+                  <l>And from <hi>Tradath</hi> and County of <hi>Dublin.</hi>
+                  </l>
+                  <l>The County <hi>Clare</hi> Lord <hi>Clifford</hi>'s Troops advance,</l>
+                  <l>Who to the Camp in noble manner prance.</l>
+                  <l>To <hi>Antrim</hi> and <hi>Loughneat</hi> Sir <hi>Neal Oneal,</hi>
+                  </l>
+                  <l>Did for his Reg'ment of Dragoons appeal.</l>
+                  <l>In <hi>Tipperary, Purcell</hi> rais'd his Men;</l>
+                  <l>Who in brave order rode into the Plain.</l>
+                  <l>In <hi>Kings</hi> and <hi>Queens</hi> County brave <hi>Luttrel</hi> rais'd</l>
+                  <l>His Regiment, who for his valour's prais'd.</l>
+                  <l>The laſt Dragoons that came into the plain,</l>
+                  <l>Were Col'nel <hi>Cottrel</hi>'s, all brave lufty Men,</l>
+               </div>
+               <div n="14" type="section">
+                  <head>Sect. 14. <hi>King</hi> James<hi>'s Foot.</hi>
+                  </head>
+                  <l>THe Drums did beat and Hautboys ſweetly play'd,</l>
+                  <l>The gallant Foot marcht next unto the aid.</l>
+                  <pb n="11" facs="tcp:98828:9"/>
+                  <l>
+                     <hi>Ramſey</hi> marcht firſt with his tall Regiment,</l>
+                  <l>To him <hi>Tirconnel</hi> did the ſame preſent.</l>
+                  <l>Near <hi>Cork Glencarty</hi> rais'd his Regiment,</l>
+                  <l>Who skipt and danced all the way they went.</l>
+                  <l>In antient times his Anceſtors were Kings,</l>
+                  <l>O're all that Country which his praiſes Sings.</l>
+                  <l>
+                     <hi>Gordon Oneal</hi> came next with Heart and Hand,</l>
+                  <l>To fight for's King againſt his Native Land,</l>
+                  <l>Moſt of his Foot he rais'd in <hi>Tyrone,</hi>
+                  </l>
+                  <l>
+                     <hi>Ocane</hi> his Nephew join'd ſome of his own.</l>
+                  <l>
+                     <hi>Gordon Oneal</hi> is that dire <hi>Traytor's Son,</hi>
+                  </l>
+                  <l>Who rais'd a great Rebellion in <hi>Tyrone.</hi>
+                  </l>
+                  <l>In <hi>Weſtmeath, Nugent</hi> rais'd his Regiment,</l>
+                  <l>Who to the Camp in gallant Order went.</l>
+                  <l>
+                     <hi>Roſcommon</hi> youths brave <hi>Dillon</hi>'s Reg'ment made,</l>
+                  <l>Who marcht with noble courage to the aid.</l>
+                  <l>
+                     <hi>Barker</hi> of Guards the talleſt Men he choſe,</l>
+                  <l>To grace the Army, and to daunt the Foes.</l>
+                  <l>
+                     <hi>Mackartymore</hi> near <hi>Cork</hi> a Reg'ment rais'd,</l>
+                  <l>Which for brave Soldiers all the Kingdom prais'd.</l>
+                  <l>The Earl of <hi>Antrim</hi>'s red-ſhants next went on,</l>
+                  <l>To join the Army in Battalion:</l>
+                  <l>The ſame from <hi>Antrim</hi> and <hi>Dinluſe</hi> he drew,</l>
+                  <l>Who t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Camp with noble courage flew.</l>
+                  <l>Lord <hi>Slane</hi> his Men near to <hi>Ardee</hi> he choſe,</l>
+                  <l>Brave valiant youths fit to oppoſe the Foes.</l>
+                  <l>Tho' he was ſtout, and they were valiant,</l>
+                  <l>Yet <hi>Gen'ral Ginkle</hi> gathers up his Rent.</l>
+                  <pb n="12" facs="tcp:98828:10"/>
+                  <l>Great <hi>Cav'nagh</hi> rais'd a noble Regiment,</l>
+                  <l>With which from <hi>Cary</hi> to the Camp he went.</l>
+                  <l>Out of <hi>Kilkenny</hi> Colonel <hi>Butler</hi> made,</l>
+                  <l>A Regiment, with which he join'd the aid.</l>
+                  <l>From <hi>Carrigmacroſs,</hi> and from <hi>Mannaghan,</hi>
+                  </l>
+                  <l>A Regiment was rais'd by <hi>Mackmahon.</hi>
+                  </l>
+                  <l>From <hi>Waterford</hi> my Lord <hi>Tyrone</hi> Collects</l>
+                  <l>A Reg'ment which the Name of <hi>Powers</hi> affects.</l>
+                  <l>Into the Camp Sir <hi>Maurice Euſtace</hi> ſent,</l>
+                  <l>From <hi>Naas</hi> and <hi>Kilcullin</hi> a Regiment.</l>
+                  <l>
+                     <hi>Anth'ny Hamilton</hi> in the <hi>Kings</hi>-County,</l>
+                  <l>Raiſed a noble Reg'ment near <hi>Roſcreagh.</hi>
+                  </l>
+                  <l>My Lord of <hi>Louth</hi> a noble Regiment made,</l>
+                  <l>In his own County which he led to the aid.</l>
+                  <l>About <hi>Dundalk</hi> Lord <hi>Bellue</hi> rais'd another,</l>
+                  <l>And let them to the Camp in gallant order.</l>
+                  <l>Sir <hi>Michael Creagh,</hi> Lord Mayor of <hi>Dublin,</hi>
+                  </l>
+                  <l>Raiſed a Regiment of valiant Men.</l>
+                  <l>
+                     <hi>Waughop</hi> and <hi>Buchan</hi> two Scots Gentlemen,</l>
+                  <l>From <hi>Tirconnel</hi> two Regiments obtain.</l>
+                  <l>All theſe and many more their ſtation take,</l>
+                  <l>And with brave Men a puiſſant Army make.</l>
+                  <l>King <hi>James</hi> he view'd the Forces as they ſtand,</l>
+                  <l>And gave the Gen'ral Officers Command:</l>
+                  <l>Around the Camp Huzza's did rend the Sky,</l>
+                  <l>And treble Volleys crown'd the Harmony.</l>
+                  <l>He of this Army Thirty Thouſand choſe,</l>
+                  <l>His <hi>Fatal En'mies</hi> in the <hi>North</hi> to'ppoſe.</l>
+                  <pb n="13" facs="tcp:98828:10"/>
+                  <l>In gallant order they their march begun,</l>
+                  <l>And to the <hi>North of Ireland</hi> quickly run;</l>
+                  <l>
+                     <hi>Charlemont</hi> and <hi>Dunganon</hi> were their own,</l>
+                  <l>They found no oppoſition in <hi>Tyrone.</hi>
+                  </l>
+                  <l>Betwixt <hi>Tyrone</hi> and <hi>Donnegal</hi> remains,</l>
+                  <l>A ſilent River ſwollen by the Rains;</l>
+                  <l>This ſtopt their March; the Bridge was broken down,</l>
+                  <l>At <hi>Cladyford</hi> by the adjacent Town.</l>
+                  <l>Here we will leave the <hi>Iriſh</hi> to conſider,</l>
+                  <l>The beſt expedient to get o're the River.</l>
+               </div>
+               <div n="15" type="section">
+                  <head>
+                     <hi>Sect. 15.</hi> The Proteſtant Army in the <hi>North.</hi>
+                  </head>
+                  <l>WEll did the <hi>Northern</hi> Proteſtants foreſee,</l>
+                  <l>The dire effects of this new <hi>Tragedy;</hi>
+                  </l>
+                  <l>How that Religion and Eſtates muſt go,</l>
+                  <l>If they yield all up to the common Foe.</l>
+                  <l>A Foe that's ſeldom merciful and kind</l>
+                  <l>To any Perſon of a different mind.</l>
+                  <l>They Muſt'red up near Thirty thouſand Men,</l>
+                  <l>Both Horſe and Foot in Warlike Diſcipline.</l>
+                  <l>They choſe <hi>Londee</hi> their Gen'ral, and did grace</l>
+                  <l>The brave <hi>Lord Blaney</hi> with the ſecond place:</l>
+                  <l>Next 'him Sir <hi>Arthur Roydon.</hi> Theſe they be</l>
+                  <l>Our Northern Forces Foot and Cavalry:</l>
+                  <l>Upon a ſpacious Plain near <hi>Ballendret,</hi>
+                  </l>
+                  <l>In gallant order theſe brave Reg'ments met.</l>
+                  <pb n="14" facs="tcp:98828:11"/>
+                  <l>The ſound of Drums and Trumpets rent the sky,</l>
+                  <l>To <hi>England</hi>'s <hi>Banner</hi> theſe brave chiefs did fly.</l>
+               </div>
+               <div n="16" type="section">
+                  <head>
+                     <hi>Sect. 16.</hi> The Proteſtant Horſe, Foot and Dragoons.</head>
+                  <l>SIr <hi>Arthur Roydon</hi>'s Horſe rode to the Plain</l>
+                  <l>In Warlike Order, 'bove a Thouſand Men:</l>
+                  <l>Some of his Men ſtrong poliſht Armour bore;</l>
+                  <l>But he himſelf a <hi>Silken</hi> Armour wore.</l>
+                  <l>Above a thouſand Foot he thither brought,</l>
+                  <l>Who at <hi>Drummore</hi> againſt the Iriſh fought.</l>
+                  <l>Thither my Lord <hi>Mount-Alexander</hi>'s Horſe,</l>
+                  <l>And Foot advance to join the Engliſh Force.</l>
+                  <l>Both Horſe and Foot the relicts of <hi>Drummore,</hi>
+                  </l>
+                  <l>Where they the ſhock of th'Iriſh Army bore:</l>
+                  <l>For he <hi>Nore-Eaſt</hi> a Gen'ral Poſt obtain'd,</l>
+                  <l>When at <hi>Drummore</hi> the Iriſh Army gain'd</l>
+                  <l>The Victory. Young Lord <hi>Mountjoys</hi> Dragoons</l>
+                  <l>Advanced next, rais'd in his Fathers Towns:</l>
+                  <l>For near to <hi>Newton Stuart</hi> in <hi>Tyrone,</hi>
+                  </l>
+                  <l>The Neighb'ring Gentlemen are all his own.</l>
+                  <l>The falſe <hi>Londee</hi> under <hi>Dumbarton</hi> bred,</l>
+                  <l>His Fathers Reg'ment of Foot thither led.</l>
+                  <l>Next unto theſe brave <hi>Skivington</hi>'s Reg'ment</l>
+                  <l>Into the Camp in gallant order went:</l>
+                  <l>From <hi>Killeleagh,</hi> young Sir <hi>George Maxwell,</hi>
+                  </l>
+                  <l>Was to that Reg'ment Lieutenant Col'nel.</l>
+                  <pb n="15" facs="tcp:98828:11"/>
+                  <l>From <hi>Ballymanagh</hi> the Laird <hi>Dontreth</hi>'s Men,</l>
+                  <l>Were the next Foot that marched to the Plain.</l>
+                  <l>Then <hi>Baron Blaney</hi> a brave Reg'ment led,</l>
+                  <l>Which near <hi>Ardmagh</hi> and <hi>Blackwater</hi> were bred.</l>
+                  <l>Next <hi>Montgomery</hi>'s Foot of <hi>Bellileſſon,</hi>
+                  </l>
+                  <l>From <hi>Ligachurry</hi> the brave <hi>Ritchiſon,</hi>
+                  </l>
+                  <l>'Mongſt which the brave Sir <hi>Nicholas Atchiſon.</hi>
+                  </l>
+                  <l>Then <hi>Audley Mervin</hi> from <hi>Omagh</hi> was ſent,</l>
+                  <l>To join our Forces with a Regiment.</l>
+                  <l>Sir <hi>John Magill</hi> from <hi>Down</hi> ſome Forces ſent</l>
+                  <l>From <hi>Garvagb, Kenney</hi> a brave Regiment.</l>
+                  <l>Then <hi>Parker</hi> brought a Reg'ment from <hi>Coleraine,</hi>
+                  </l>
+                  <l>Col'nel <hi>Hammil</hi> another from <hi>Strabane.</hi>
+                  </l>
+                  <l>From <hi>Dungannon</hi> brave <hi>Chicheſter</hi> was ſent,</l>
+                  <l>With <hi>Cafil</hi> the Lord <hi>Charlemonts</hi> Regiment.</l>
+                  <l>The <hi>Lagan</hi> Horſe under <hi>James Hamilton,</hi>
+                  </l>
+                  <l>In that Encampment great applauſes won.</l>
+                  <l>From <hi>Colemackletrain</hi> from <hi>Bert</hi> and <hi>Iniſhowen,</hi>
+                  </l>
+                  <l>'Squire <hi>Forward</hi> brought Horſe &amp; Foot of his own.</l>
+                  <l>From <hi>Glaſlough, Mannaghan</hi> and <hi>Caledon,</hi>
+                  </l>
+                  <l>A thouſand Foot were brought by Squire <hi>Johnſon.</hi>
+                  </l>
+                  <l>Squire <hi>Moor</hi> of <hi>Aghnacloy</hi> a Reg'ment brought,</l>
+                  <l>And <hi>Gairnes</hi> of <hi>Knockmany</hi> at <hi>Derry</hi> fought.</l>
+                  <l>From <hi>Hammiltons-Ban Franck Hammilton</hi> led,</l>
+                  <l>A brave Reg'ment which near <hi>Ardmagh</hi> were bred.</l>
+                  <l>From <hi>Roewater</hi> and <hi>Newton-Limmavady,</hi>
+                  </l>
+                  <l>'Squire <hi>Philips</hi> ſent of Foot a mighty body.</l>
+                  <l>From <hi>Hilsburrough</hi> 'Squire <hi>Hill</hi> a Reg'ment ſent,</l>
+                  <pb n="16" facs="tcp:98828:12"/>
+                  <l>Which to the Camp in gallant order went.</l>
+                  <l>From <hi>Down</hi> likewiſe Major <hi>Stroud</hi> did bring</l>
+                  <l>A gallant Reg'ment which his praiſes Sing.</l>
+                  <l>Alderman <hi>Tomkins</hi> from <hi>Tirkearing</hi> ſent</l>
+                  <l>Into the Camp a Gallant Regiment,</l>
+                  <l>Which joined Col'nel <hi>Murray</hi> as they went.</l>
+                  <l>The <hi>Vaughans</hi> likewiſe brought forth of their own,</l>
+                  <l>Some Independant Troops from <hi>Iniſhowen.</hi>
+                  </l>
+                  <l>From <hi>Loughſuilly,</hi> the <hi>Stuarts</hi> and <hi>Conninghams</hi>
+                  </l>
+                  <l>A Party brought, which to our Forces joins.</l>
+                  <l>
+                     <hi>Groves</hi> of <hi>Caſtle Shannaghan</hi> Forces brought,</l>
+                  <l>From <hi>Kilmackrennan</hi> which the Enemy fought.</l>
+                  <l>This valiant Man after the Wars was ſlain,</l>
+                  <l>When on the <hi>Fues</hi> he's by the Tories ta'ne;</l>
+                  <l>He's much Lamented for his Worth and Zeal,</l>
+                  <l>And ſuff'red greatly for the Common-weal;</l>
+                  <l>Him <hi>Charles Colquhoun</hi> aſſiſted with ſome Horſe,</l>
+                  <l>From <hi>Letterkenny,</hi> and they join'd our Force.</l>
+                  <l>Theſe and ſome thouſands more came to the plain,</l>
+                  <l>A puiſſant army of brave luſty Men;</l>
+                  <l>The Gen'rals view'd the Forces as they lay,</l>
+                  <l>And valiantly St. <hi>George</hi>'s arms diſplay;</l>
+                  <l>Then they in haſte upon the ſpot did call</l>
+                  <l>A Council of th' Off'cers General.</l>
+               </div>
+               <div n="17" type="section">
+                  <pb n="17" facs="tcp:98828:12"/>
+                  <head>
+                     <hi>Sect. 17.</hi> The Proteſtants Council of War.</head>
+                  <l>TO whom <hi>Londee</hi> addreſt himſelf in kind,</l>
+                  <l>And in few words he opened his mind,</l>
+                  <l>Great Sirs, King <hi>James</hi> advances to the <hi>Fin,</hi>
+                  </l>
+                  <l>But that's the Queſtion, where he'll enter in,</l>
+                  <l>At <hi>Cladyford,</hi> at <hi>Lifford,</hi> or <hi>Caſtlefin;</hi>
+                  </l>
+                  <l>To Guard theſe Paſſes, and Secure this Ground,</l>
+                  <l>Is the great Topick which I do propound.</l>
+                  <l>From hence to <hi>Lifford</hi> near two miles you ſee,</l>
+                  <l>To <hi>Cladyford</hi> three miles and more there be;</l>
+                  <l>And four to <hi>Caſtlefin;</hi> from hence we can</l>
+                  <l>Send ſpeedy ſuccour, and the Fords Command.</l>
+                  <l>This I adviſe, but yours its to prepend,</l>
+                  <l>What's more conducive to the proper end.</l>
+               </div>
+               <div n="18" type="section">
+                  <head>
+                     <hi>Sect. 18.</hi> Detachments ſent to Guard the Fords of <hi>Fin.</hi>
+                  </head>
+                  <l>THe Noble Council fearing no Treachery,</l>
+                  <l>Applaud his Wiſdom, and the ſame decree,</l>
+                  <l>From thence to <hi>Lifford</hi> ſome good Troops they ſend,</l>
+                  <l>T'oppoſe the Iriſh, and the Ford defend;</l>
+                  <l>
+                     <hi>Marvins</hi> and <hi>Kenneys</hi> Regiments they be</l>
+                  <l>That Guard the Town and Ford from the En'my.</l>
+                  <pb n="18" facs="tcp:98828:13"/>
+                  <l>To <hi>Cladyford</hi> five thouſand men they ſend,</l>
+                  <l>To Guard the <hi>Ford,</hi> and <hi>Broken-Bridge</hi> defend:</l>
+                  <l>Sir <hi>Arthur Roydons</hi> Horſe and Foot went there,</l>
+                  <l>Of all the Army the beſt Troops they were.</l>
+                  <l>To <hi>Caſtlefin</hi> they ſent three thouſand Men,</l>
+                  <l>To ſtop that paſs, and guard that Ford of <hi>Fin.</hi>
+                  </l>
+                  <l>
+                     <hi>Ballyleſſons</hi> and <hi>Skivingtons</hi> Men they be</l>
+                  <l>Who guard that Town and Ford from th' Enemy.</l>
+               </div>
+               <div n="19" type="section">
+                  <head>Sect. 19. <hi>The Engagement at</hi> Lifford.</head>
+                  <l>THe <hi>Morn</hi> from <hi>South,</hi> the <hi>Fin</hi> from <hi>Weſt</hi> commence,</l>
+                  <l>At <hi>Lifford</hi> they conjoin their confluence;</l>
+                  <l>From thence to <hi>Dery</hi> in full ſtreams they flow,</l>
+                  <l>And guard the South of <hi>Dery</hi> from the Foe:</l>
+                  <l>Therefore King <hi>James</hi> muſt paſs the ſwoln <hi>Fin,</hi>
+                  </l>
+                  <l>If he the City do's expect to win.</l>
+                  <l>This to effect he ſent ſome of his Horſe,</l>
+                  <l>To paſs the Ford at <hi>Lifford</hi> with great Forc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>The ſound of Drums and Trumpets rent the air,</l>
+                  <l>And th'Iriſh Forces to the <hi>Ford</hi> repair.</l>
+                  <l>And boldly enter in: when lo! our Men,</l>
+                  <l>Pour ſhowers of Bullets from a Ravelin.</l>
+                  <l>The Iriſh drop, and with the purple gore,</l>
+                  <l>Of dying Soldiers ſtain the waters o're.</l>
+                  <l>From t'other ſide the En'my fiercely fire,</l>
+                  <l>And reinforce their Troops as need require.</l>
+                  <pb n="19" facs="tcp:98828:13"/>
+                  <l>Till they got footing on the other ſhoar,</l>
+                  <l>And with unequal Force our Men o're-power.</l>
+                  <l>Then Death appear'd in many a diſmal hue,</l>
+                  <l>Our Men retreat the Enemy purſue.</l>
+               </div>
+               <div n="20" type="section">
+                  <head>Sect. 20. <hi>The Engagement at</hi> Cladyford.</head>
+                  <l>SOme of our Forces unto <hi>Clady</hi> hye,</l>
+                  <l>T'aſſiſt our Party, 'gainſt the Enemy;</l>
+                  <l>'Mongſt whom great <hi>Murray</hi> with ſome friends aſcends,</l>
+                  <l>To <hi>Cladyford,</hi> and ſtoutely it defends.</l>
+                  <l>On t'other ſide King <hi>James</hi>'s forces ſtood,</l>
+                  <l>Upon a Hill which cover'd all the flood:</l>
+                  <l>From whence they fired ſmartly on our Men,</l>
+                  <l>Drawn up on t'other ſide upon a Plain.</l>
+                  <l>This gall'd our Troops, the Foot began to fly,</l>
+                  <l>And quit the Paſs clear to the Enemy.</l>
+                  <l>
+                     <hi>Maimont</hi> to paſs the <hi>Ford</hi> a Squadron ſends</l>
+                  <l>Of his beſt Horſe, <hi>Murray</hi> the Paſs defends.</l>
+                  <l>Maior <hi>Nangle</hi> who led the Iriſh Force,</l>
+                  <l>Dropt in the River headlong from his Horſe;</l>
+                  <l>And many a valiant Trouper floating lay,</l>
+                  <l>Which the ſlow River ſcarce could bear away.</l>
+                  <l>Thus he oppos'd the Foes till all his own,</l>
+                  <l>Forſook the <hi>Ford</hi> and left him there alone.</l>
+                  <l>Our Troops expected ſuccour from the Camp,</l>
+                  <l>But none being ſent, this did their courage dam<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</l>
+                  <pb n="20" facs="tcp:98828:14"/>
+                  <l>To valiant <hi>Hero's</hi> flights a diſmal ſting,</l>
+                  <l>Great <hi>Murray</hi> hopes to rectify the thing;</l>
+                  <l>
+                     <hi>Paulus</hi> aſhamed dy'd upon the ſpot:</l>
+                  <l>Great <hi>Varro</hi> fled, 'cauſe he deſpaired not,</l>
+                  <l>To conquer <hi>Hannibal.</hi> Our Forces fly,</l>
+                  <l>And quit the paſſage to the Enemy.</l>
+                  <l>Horror and Death our flying Troops purſue,</l>
+                  <l>The Iriſh Horſe our ſcatt'red Forces ſlew.</l>
+                  <l>They intercept our Troops from <hi>Caſtlefin,</hi>
+                  </l>
+                  <l>With Death and ſlaughter and that Country win.</l>
+                  <l>Brave <hi>Wigton</hi> of <hi>Rapho</hi> at <hi>Long-Caſey,</hi>
+                  </l>
+                  <l>Oppos'd their Horſe, till the Foot got away.</l>
+                  <l>The Iriſh Foot the broken Bridge repair,</l>
+                  <l>And in few hours at <hi>Ballandret</hi> they were.</l>
+               </div>
+               <div n="21" type="section">
+                  <head>Sect. 21. Londee<hi>'s Treachery.</hi>
+                  </head>
+                  <l>OUr beaten Troops the doleful Tidings bring</l>
+                  <l>Of both defeats, which through our <hi>Camp</hi> did ring</l>
+                  <l>The dire Alarm. Our rouzed <hi>Chiefs</hi> to Arms?</l>
+                  <l>And nobly vow'd ſoon to revenge their harms.</l>
+                  <l>Nature it ſelf our <hi>Camp</hi> thus fortifies,</l>
+                  <l>For on its Front a rapid River flies;</l>
+                  <l>Each wing a Wood, the Rear a bog do's ſtay,</l>
+                  <l>Through which a narrow paſs the long-Caſey,</l>
+                  <l>But falſe <hi>Londee</hi> had other Fiſh to Fry.</l>
+                  <l>Thus in the <hi>Camp</hi> he uttered his mind;</l>
+                  <pb n="21" facs="tcp:98828:14"/>
+                  <l>Dear Friends? you Row againſt the Tyde &amp; Wind:</l>
+                  <l>Let's fly to walls, where we may ſafely fight,</l>
+                  <l>Againſt our Foes and there ſupport our right.</l>
+                  <l>His words like Light'ning through the <hi>Camp</hi> did fly,</l>
+                  <l>And daunted all their hearts immediately.</l>
+                  <l>Some call him Coward, ſome Traytor, moſt do judge</l>
+                  <l>It moſt expedient, and to <hi>Dery</hi> trudge;</l>
+                  <l>At laſt the venom <hi>poyſon'd</hi> each Mans breaſt,</l>
+                  <l>Then all to <hi>Dery</hi> fly in greateſt haſte.</l>
+                  <l>
+                     <hi>Londee</hi> himſelf rid Poſt to tell the News,</l>
+                  <l>Of our defeat, ne're ſpar'd his Horſes Shoes.</l>
+               </div>
+               <div n="22" type="section">
+                  <head>
+                     <hi>Sect. 22.</hi> The March of the Iriſh Army to <hi>London-Dery.</hi>
+                  </head>
+                  <l>OUr broken Forces into <hi>Dery</hi> fly,</l>
+                  <l>And ſhut the Gates thereof immediately.</l>
+                  <l>Some to <hi>England,</hi> others to <hi>Scotland</hi> go,</l>
+                  <l>And leave the Countrey naked to the Foe.</l>
+                  <l>The Iriſh Troops ravage the Countrey round,</l>
+                  <l>And carry away whatſo'ere they found.</l>
+                  <l>They march to <hi>Dery</hi> in a full career,</l>
+                  <l>And in few days before the Walls appear.</l>
+                  <l>King <hi>James</hi> took up his Quarters at St. <hi>Johnſton,</hi>
+                  </l>
+                  <l>And there diſpatched, what was fit to be done.</l>
+               </div>
+            </div>
+            <div n="2" type="book">
+               <pb n="22" facs="tcp:98828:15"/>
+               <head>
+                  <hi>Londeriados</hi> LIB. II.</head>
+               <p>Containeth a deſcription of <hi>London-Dery,</hi> its Situation and Fortifications: The Charter of <hi>London-Dery</hi> broken by <hi>Tyrconnel.</hi> The Proteſtant Corporation turn'd out, and a Papiſt Corporation choſen. An Iriſh Convent built, and a Papiſt Regiment put into the Garriſon, which being ſent for to ſome Rendevouze, the Proteſtants riſe in Arms and expell all the Papiſts out of the Town. They refuſe to re<g ref="char:EOLhyphen"/>ceive the Earl of <hi>Antrims</hi> Regiment. The Lord <hi>Mont<g ref="char:EOLhyphen"/>joys</hi> Mediation, who obtains <hi>Londee</hi> to be their Govern<g ref="char:EOLhyphen"/>or, and intreats the City to receive ſix Companies of his Regiment, after the Papiſt Soldiers were disbanded out of it. <hi>William III.</hi> Proclaimed King. The Contributers towards the holding out of the City. Their Application to <hi>England</hi> and <hi>Scotland</hi> for Aid. K. <hi>James</hi>'s offers to the City. <hi>Londee</hi> the Governor's Capitulation. Colo<g ref="char:EOLhyphen"/>nel <hi>Adam Murray</hi> moves the City to hold out, and diſ<g ref="char:EOLhyphen"/>charges <hi>Londee.</hi> The General Council chuſe Lieutenant Colonel <hi>Baker</hi> and Dr. <hi>Walker,</hi> a Clergyman, to be Go<g ref="char:EOLhyphen"/>vernors. The reformee of the broken Regiments. Eight Regiments formed in the City. The Iriſh Encampments before the Walls. The Earl of <hi>Abercors</hi> Meſſage to the City.</p>
+               <div n="1" type="section">
+                  <head>Sect. 1.</head>
+                  <l>ASſiſt me Muſes? with your Sacred flame,</l>
+                  <l>That I may celebrate the mighty name,</l>
+                  <pb n="23" facs="tcp:98828:15"/>
+                  <l>Of this fam'd Town, nor <hi>Troy,</hi> nor <hi>Carthage</hi> are</l>
+                  <l>To be compar'd with thee in art of War?</l>
+                  <l>For <hi>Troy</hi> was rais'd, and <hi>Carthage</hi> burnt. Thy name,</l>
+                  <l>Out-lives the fury of more Stratagem.</l>
+                  <l>'Bove <hi>Rome</hi> it ſelf thy praiſes I'le extoll;</l>
+                  <l>The <hi>Gaules</hi> burnt <hi>Rome</hi> all but the Capitol.</l>
+                  <l>The <hi>Greeks</hi> ſackt <hi>Troy,</hi> the <hi>Romans Carthage</hi> ſtrong,</l>
+                  <l>The <hi>Gauls</hi> burnt <hi>Rome:</hi> but thee they could not wrong.</l>
+               </div>
+               <div n="2" type="section">
+                  <head>Sect. 2. <hi>A Deſcription of</hi> London-Dery.</head>
+                  <l>
+                     <hi>DEry</hi> whoſe proud and ſtately Walls diſdain,</l>
+                  <l>By any Foreign En'my to be t'ane;</l>
+                  <l>Betwixt ſurrounding Hills which it command,</l>
+                  <l>On an aſcending brow dos ſnugly ſtand.</l>
+                  <l>Againſt thoſe Hills the Walls riſe equally,</l>
+                  <l>And on ſtrong Baſtions planted Cannon lye.</l>
+                  <l>The curtains likewiſe have an equal power,</l>
+                  <l>T'annoy the Foes, and the Town to ſecure;</l>
+                  <l>A River deep and ſwift with flowing Tide,</l>
+                  <l>Surrounds the <hi>Eaſt</hi> and <hi>South,</hi> and guards that ſide.</l>
+                  <l>A higher Wall and Baſtions do defend,</l>
+                  <l>The <hi>Weſt</hi> and <hi>North</hi> from the Foes cruel end.</l>
+                  <l>There's a great Church from whoſe high Steeple goes,</l>
+                  <l>Thunder and Lightning to annoy the Foes.</l>
+                  <pb n="24" facs="tcp:98828:16"/>
+                  <l>Near it's a Sally-Port, from whence they may</l>
+                  <l>Safely ſpring out to hurt the Enemy,</l>
+                  <l>From whoſe high Bulwark ſev'ral Cannon play.</l>
+                  <l>The Town's near Oval with four ſtately Gates,</l>
+                  <l>The wholeſome Air an Appetite creates.</l>
+                  <l>The <hi>Shipkey-Gate</hi> receives the Merchants ſtore,</l>
+                  <l>There ride ſuch Ships as Sail up from <hi>Kilmore;</hi>
+                  </l>
+                  <l>To whoſe proud Flag all Ships muſt ſtrike their Sails,</l>
+                  <l>If not the Fort to ſink them never fails.</l>
+                  <l>From that to <hi>Dery</hi> its a League and more,</l>
+                  <l>The ſwifeſt River and the fineſt ſhoar:</l>
+                  <l>For near this place the noble Salmon play,</l>
+                  <l>Till the wiſe Fiſher makes of them a prey.</l>
+                  <l>The cunning Angler likewiſe with his fly,</l>
+                  <l>Entraps the noble Salmon as they play:</l>
+                  <l>Panting for breath he halls them on the ſand,</l>
+                  <l>And ſeizes the noble booty with his hand.</l>
+                  <l>Upon its banks ſome noble Buildings ſtand,</l>
+                  <l>Fit to divert the Nobles of the Land.</l>
+                  <l>Ships of the greateſt burthen ſafely go,</l>
+                  <l>Above the City to careen, or ſo.</l>
+                  <l>Near the <hi>South-gate</hi> the <hi>Ferry-key</hi> dos ſtand,</l>
+                  <l>Where they waft o're the Natives of the Land.</l>
+                  <l>On T'other ſide ſome noble Buildings be,</l>
+                  <l>Fit for the ends of Pride and Luxury.</l>
+                  <l>On each ſide pleaſant Gardens to the eye,</l>
+                  <l>Which do abound with fruit exceedingly.</l>
+                  <pb n="25" facs="tcp:98828:16"/>
+                  <l>Near <hi>Biſhops-Gate,</hi> the fatal Windmills lye,</l>
+                  <l>Where Cattle feed and Criminals do dye.</l>
+                  <l>This is the ready paſſage to <hi>Rapho,</hi>
+                  </l>
+                  <l>And <hi>Donnegal</hi> from whence their Trafficks flow.</l>
+                  <l>Upon the <hi>North,</hi> the <hi>Butchers-Gate</hi> doth lye,</l>
+                  <l>This ſide ſome mooriſh grounds do fortify;</l>
+                  <l>But yet it leads to St. <hi>Columba</hi>'s Well,</l>
+                  <l>To <hi>Iniſhowen,</hi> to <hi>Bert</hi> and <hi>Pennyburn-Mill.</hi>
+                  </l>
+                  <l>Here's a plain path to <hi>Brookhall</hi> and <hi>Kilmore,</hi>
+                  </l>
+                  <l>A fertile Country, and a pleaſant ſhoar.</l>
+                  <l>A Major the Town, a Dean the Church demands,</l>
+                  <l>A Governor the Gariſon commands.</l>
+                  <l>In the Towns center ſtands the Common-Hall,</l>
+                  <l>On ſtately Pillars: the Main-guard and all.</l>
+                  <l>There's a Parade for near Ten Thouſand Men,</l>
+                  <l>In the four main ſtreets and the Diamond.</l>
+                  <l>In this great Hall the Magiſtrates do meet,</l>
+                  <l>To take good Counſel, and to do what's fit.</l>
+               </div>
+               <div n="3" type="section">
+                  <head>Sect. 3. <hi>The Charter of</hi> London-Dery <hi>broke by</hi> Tirconnel.</head>
+                  <l>ANd in this Hall the City Records be,</l>
+                  <l>'Mongſt which of Common-Council a Decree</l>
+                  <l>That no Papiſt ſhall dwell within the Walls,</l>
+                  <l>This Statute to the Iriſh fury falls;</l>
+                  <l>For <hi>Talbot</hi> had their antient Charter broke,</l>
+                  <l>And all the Engliſh Cuſtoms did Revoke;</l>
+                  <pb n="26" facs="tcp:98828:17"/>
+                  <l>The Learn'd <hi>Rochfort</hi> Recorder of the Town,</l>
+                  <l>Oppoſed the ſame to his great Renown;</l>
+                  <l>Yet in ſpight of Reaſon and the Engliſh Laws,</l>
+                  <l>
+                     <hi>Talbot</hi> the Charter from the City draws:</l>
+                  <l>Turn'd out the Engliſh Corporation,</l>
+                  <l>And choſe all Popiſh Members of his own.</l>
+                  <l>
+                     <hi>Cormick Oneal</hi> of <hi>Broughſhanes</hi> choſen Major,</l>
+                  <l>For Aldermen ſome of the fol'wing are.</l>
+                  <l>
+                     <hi>Brian Oneal</hi> of <hi>Ballinaskreen</hi> is choſe,</l>
+                  <l>Whoſe Fathers did the Engliſh Tooops oppoſe,</l>
+                  <l>In Queen <hi>Eliza</hi>'s Reign moſt barbarouſly;</l>
+                  <l>And <hi>Rore Ocane</hi> the Lord of <hi>Canes</hi> Country.</l>
+                  <l>The great <hi>Orourk</hi> is made an Alderman,</l>
+                  <l>Who afterwards a Col'nels Poſt did gain.</l>
+                  <l>Then <hi>Shane Oneal Con-Baccaghs</hi> Eldeſt Son</l>
+                  <l>
+                     <hi>Mackon'ways</hi> and <hi>Macanallies</hi> from <hi>Tyrone,</hi>
+                  </l>
+                  <l>And the <hi>Odogherties</hi> from <hi>Iniſhowen.</hi>
+                  </l>
+                  <l>For Burgeſſes and Freeman they had choſe,</l>
+                  <l>Broagmakers, Butchers, Raps, and ſuch as thoſe.</l>
+                  <l>In all the Corporation's not a Man</l>
+                  <l>Of Britiſh Parents except <hi>Buchanan.</hi>
+                  </l>
+                  <l>An Iriſh Convent's built, and ſev'ral Fryars,</l>
+                  <l>Did teach the Iriſh youth to ſay their Prayers.</l>
+                  <l>Thus they the Engliſh City did o're-ſway,</l>
+                  <l>And <hi>Maſs</hi> is ſaid at Market-croſs each day.</l>
+                  <l>The Proteſtants did their ſad caſe bemoan,</l>
+                  <l>For Iriſh Soldiers kept the Garriſon.</l>
+                  <pb n="27" facs="tcp:98828:17"/>
+                  <l>My Lord <hi>Mountjoy</hi> was Col'nell to the ſame;</l>
+                  <l>At length an Order from <hi>Tyrconnel</hi> came:</l>
+                  <l>To march this Reg'ment to the Rendevouze,</l>
+                  <l>By which o'reſight he did the City looſe.</l>
+                  <l>For when this Reg'ment did the City quit,</l>
+                  <l>They ne're would after Popiſh Troops admit.</l>
+                  <l>At length a Trumpet's by <hi>Tirconnel</hi> ſent,</l>
+                  <l>T'admit the Earl of <hi>Antrims</hi> Regiment;</l>
+                  <l>They boldly ſhut the Gates and time Demand,</l>
+                  <l>To weigh the matter and their Anſwer ſend.</l>
+               </div>
+               <div n="4" type="section">
+                  <head>
+                     <hi>Sect. 4.</hi> The Proteſtant's refuſe to Admit the Earl's Re<g ref="char:EOLhyphen"/>giment.</head>
+                  <l>AT the Great Hall the Proteſtants conveen,</l>
+                  <l>And freely ſpeak their minds as may be ſeen.</l>
+                  <l>Alderman <hi>Tomkins</hi> was the firſt that ſpoke,</l>
+                  <l>And thus declaim'd againſt the Iriſh Yoak;</l>
+                  <l>Dear Friends <hi>Tyrconnel</hi> ſeeks us to enſlave,</l>
+                  <l>And this ſtrong City in his power to have.</l>
+                  <l>But if your minds ſhall all with mine agree,</l>
+                  <l>Wee'l truſt to <hi>England</hi> for our Liberty.</l>
+                  <l>Up ſtarts <hi>Buchanan</hi> and thus boldly ſpoke,</l>
+                  <l>Take Heart good Sir, ne're fear the Iriſh Yoak,</l>
+                  <l>Receive the Earl of <hi>Antrims</hi> Regiment</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Peace and Plenty reſt your ſelf content.</l>
+                  <pb n="28" facs="tcp:98828:18"/>
+                  <l>Alderman <hi>Gervace</hi> Squire gave this reply,</l>
+                  <l>Sir! you're a Traytor to our Liberty:</l>
+                  <l>And to the Engliſh Crown from whence we draw,</l>
+                  <l>Our Right and Title, Charter and our Law.</l>
+                  <l>Whilſt they debated thus, another came,</l>
+                  <l>With weeping Eyes and thus accoſted them.</l>
+                  <l>Dear Friends a? War upon your ſelves you'l bring,</l>
+                  <l>
+                     <hi>Talbots</hi> Deputed by a lawful King:</l>
+                  <l>They that reſiſt the power do God withſtand,</l>
+                  <l>You'l draw a Potent Army to this Land;</l>
+                  <l>Who will theſe goodly buildings ſoon deface,</l>
+                  <l>Raviſh your Wives and Daughters 'fore your face.</l>
+                  <l>And all your wealth and ſubſtance ſoon devour,</l>
+                  <l>Submit your ſelves unto the preſent power.</l>
+                  <l>'Gainſt whom Lieutenant <hi>Campsy</hi> boldly ſtood;</l>
+                  <l>To ſave the City with his deareſt blood;</l>
+                  <l>And for an Anſwer to the Regiment,</l>
+                  <l>In greateſt haſte ſome Cannon ball he ſent:</l>
+                  <l>But the Lieutenant was ſhot in the Arm,</l>
+                  <l>As they the cent'nel at the Store diſarm.</l>
+                  <l>Two days this Reg'ment lay at <hi>Ferry-key,</hi>
+                  </l>
+                  <l>The chiefs whereof, the following Parties be:</l>
+                  <l>From <hi>Antrim</hi> the <hi>Macdonnels</hi> num'rous race,</l>
+                  <l>From <hi>Glenwoods,</hi> the <hi>Ohagans</hi> came apace,</l>
+                  <l>The Lord <hi>Macquhire</hi> from <hi>Enniskilling</hi> came,</l>
+                  <l>The great <hi>Ocanes</hi> came from the River <hi>Bane;</hi>
+                  </l>
+                  <l>Captain <hi>Talbot, Tirconnels</hi> nat'ral Son,</l>
+                  <l>Then all the great <hi>Oneals</hi> out of <hi>Tyrone;</hi>
+                  </l>
+                  <l>And Capt. <hi>Macdonnel, Colkittagh's</hi> Son.</l>
+                  <pb n="29" facs="tcp:98828:18"/>
+                  <l>The Earl himſelf was haſt'ning hither too,</l>
+                  <l>Threat'ning to force the City thereunto:</l>
+                  <l>But all the Countrey gath'red in apace,</l>
+                  <l>Fearing the Iriſh might ſurprize the place.</l>
+                  <l>Then Maſter <hi>Hindman,</hi> Captain of the Guard,</l>
+                  <l>To ſtrengthen whom the Neighbours all repair'd;</l>
+                  <l>Attackt this Party, as the City fir'd,</l>
+                  <l>Then in diſorder they in haſte retir'd:</l>
+                  <l>But this retreat ſuch conſternation bred,</l>
+                  <l>That ſome with Arms and ſome without them fled.</l>
+                  <l>The Earl himſelf, and the brave Lord <hi>Macquhire,</hi>
+                  </l>
+                  <l>In greateſt haſte to <hi>Antrim</hi> did retire.</l>
+                  <l>
+                     <hi>Londee</hi> being gone to <hi>Dublin</hi> at that hour,</l>
+                  <l>They choſe Squire <hi>Philips</hi> for their Governour:</l>
+                  <l>Who in his Wiſdom to their great content,</l>
+                  <l>Preſcrib'd to them a form of Government.</l>
+                  <l>Theſe things alarm'd the Iriſh Government,</l>
+                  <l>In which matter much time and pains were ſpent.</l>
+                  <l>My Lord <hi>Mountjoy</hi> to mediate came down,</l>
+                  <l>Who plac'd <hi>Londee</hi> Governour of the Town.</l>
+                  <l>My Lord did likewiſe beg the Towns conſent,</l>
+                  <l>T'admit ſix Comp'nies of his Regiment;</l>
+                  <l>To perform duty with the City foot,</l>
+                  <l>With much ado the Town conſented to't.</l>
+                  <l>Upon their Solemn Oath for to ſtand by,</l>
+                  <l>The right of <hi>England,</hi> 'gainſt all Popery.</l>
+                  <pb n="30" facs="tcp:98828:19"/>
+                  <l>
+                     <hi>March</hi> foll'wing they proclaim'd his Majeſty,</l>
+                  <l>The Popiſh Members of the City fly,</l>
+                  <l>And all the City join'd in Loyalty.</l>
+               </div>
+               <div n="5" type="section">
+                  <head>
+                     <hi>Sect. 5.</hi> The Contributers towards the holding out of the City againſt King <hi>James.</hi>
+                  </head>
+                  <l>DUring th'interregnum the Loyal Town,</l>
+                  <l>Behav'd it ſelf with Zeal to'he Engl. Crown.</l>
+                  <l>
+                     <hi>Campsy</hi> the Major all the four Gates did cloſe,</l>
+                  <l>And did the Earl of <hi>Antrims</hi> Men oppoſe.</l>
+                  <l>The Aldermen was at a vaſt expence,</l>
+                  <l>In Stores and Money for the Towns defence.</l>
+                  <l>Alderman <hi>Tomkins</hi> rais'd a Troop of Horſe,</l>
+                  <l>And laid in Stores againſt the Iriſh Force.</l>
+                  <l>And <hi>Gervace</hi> Squire with all his might aſſiſts,</l>
+                  <l>In Council, and our Troops with Stores ſubſiſts.</l>
+                  <l>Alderman <hi>Craig</hi> with Stores aſiſts the Town,</l>
+                  <l>Preaching Obedience to the Engliſh Crown.</l>
+                  <l>Alderman <hi>Grahms</hi> laid to his helping hand,</l>
+                  <l>With Stores and Money does the Foe withſtand.</l>
+                  <l>
+                     <hi>Cocken</hi> an Alderman in Council ſate,</l>
+                  <l>He did the Church and State both Regulate.</l>
+                  <l>Alderman <hi>Hobſon</hi> with Stores of Proviſion,</l>
+                  <l>Supply'd the Forces of our Garriſon.</l>
+                  <l>
+                     <hi>Lennox</hi> and <hi>Leckey</hi> which are Aldermen,</l>
+                  <l>For ſpeedy ſuccours went into <hi>Scotland.</hi>
+                  </l>
+                  <pb n="31" facs="tcp:98828:19"/>
+                  <l>Out of their Shops our Army Clo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ths receiv'd;</l>
+                  <l>Thus all the Aldermen themſelves behav'd:</l>
+                  <l>Except <hi>Buchanan</hi> whoſe a Knave all o're,</l>
+                  <l>For he had learn'd to tell his Beads before.</l>
+                  <l>The Burgeſſes and Freemen gave their aid,</l>
+                  <l>And for their Loyalty have nobly paid.</l>
+                  <l>
+                     <hi>Lady</hi> a Merchant was at vaſt expence,</l>
+                  <l>In Stores and Money for the Towns defence.</l>
+                  <l>Brave <hi>Gemmit</hi> the Collector of the Town</l>
+                  <l>For its defence ſpent great Stores of his own.</l>
+                  <l>
+                     <hi>Morriſon</hi> and <hi>Shennan</hi> Apothecaries,</l>
+                  <l>Were at a vaſt expence in remedies.</l>
+                  <l>
+                     <hi>James Roe Cunningham,</hi> and Maſter <hi>Brooks,</hi>
+                  </l>
+                  <l>Gave great ſupplies, as are ſeen by their Books.</l>
+                  <l>
+                     <hi>Ewins</hi> and <hi>Wilſon</hi> Merchants gave the ſame,</l>
+                  <l>And forty Merchants which I cannot name.</l>
+                  <l>
+                     <hi>Horrace Kennedy</hi> went into <hi>Scotland,</hi>
+                  </l>
+                  <l>And mov'd the Council ſome relief to ſend.</l>
+                  <l>
+                     <hi>Harvey</hi> a Tanner, was a leading Man,</l>
+                  <l>And <hi>John</hi> his Son, now their Chamberlain;</l>
+                  <l>The ſame and <hi>Curlew</hi> did attend the Store,</l>
+                  <l>Dividing Portions both to Rich and Poor.</l>
+                  <l>Maſter <hi>Mackay</hi> and <hi>Evins</hi> did aſſiſt,</l>
+                  <l>And with their Subſtance did our Troops ſubſiſt.</l>
+                  <l>Then Maſter <hi>Mogrige</hi> the Clerk of the Crown,</l>
+                  <l>With Stores and Council did aſſiſt the Town,</l>
+                  <l>Captain <hi>Mo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>crief</hi> rais'd a Company,</l>
+                  <l>And Captain <hi>Morriſon</hi> fought the Enemy.</l>
+                  <pb n="32" facs="tcp:98828:20"/>
+                  <l>Thus all the Town were at a vaſt expence,</l>
+                  <l>In Stores and Money for the Towns defence?</l>
+                  <l>The County likewiſe gave a helping hand,</l>
+                  <l>And with their Forces did the Foe withſtand.</l>
+                  <l>Old Major <hi>Philips,</hi> a chief in forty one,</l>
+                  <l>In's Ninetieth Year into the City came.</l>
+                  <l>Endur'd the Siege &amp; with ſound Councils taught,</l>
+                  <l>Our brave Commanders, who the En'my fought.</l>
+                  <l>Next him brave Captain <hi>Godfrey</hi> of <hi>Colerain</hi>
+                  </l>
+                  <l>Into the City with a Comp'ny came.</l>
+                  <l>Lieutenant Col'nel <hi>Stuart</hi> from <hi>Maghera,</hi>
+                  </l>
+                  <l>Did to the City with a party draw.</l>
+                  <l>Then Captain <hi>Thomas Lance</hi> came from <hi>Colerain,</hi>
+                  </l>
+                  <l>From <hi>Prehend</hi> Captain <hi>Michael Conningham,</hi>
+                  </l>
+                  <l>And Captain <hi>Bacon</hi> from <hi>Magilligan.</hi>
+                  </l>
+                  <l>Captain <hi>Molholland</hi> came from <hi>Maghera,</hi>
+                  </l>
+                  <l>From <hi>Tibbermore</hi> we Enſign <hi>Jackſon</hi> ſaw.</l>
+                  <l>Squire <hi>Forward</hi> helpt the Town moſt nobly,</l>
+                  <l>With thouſand Horſemen 'gainſt the Enemy.</l>
+                  <l>Squire <hi>Philips</hi> went to <hi>England</hi> to procure,</l>
+                  <l>Some ſpeedy ſuccours the Town to ſecure;</l>
+                  <l>The Learned Couns'ler <hi>Cairns</hi> to <hi>England</hi> hies,</l>
+                  <l>To move that Court to ſend us freſh ſupplies.</l>
+                  <l>Their Majeſties like tender Parents ſent,</l>
+                  <l>Two Regiments and Stores for the intent.</l>
+                  <l>
+                     <hi>James Hammilton</hi> the uſeful Stores did bring,</l>
+                  <l>Who was entruſted therewith by the King:</l>
+                  <pb n="33" facs="tcp:98828:20"/>
+                  <l>He's Son to the great Lady <hi>Hammilton,</hi>
+                  </l>
+                  <l>Which hath Eſtates on either ſide the Town.</l>
+                  <l>
+                     <hi>Richards</hi> and <hi>Cuningham</hi> the Reg'ments led,</l>
+                  <l>The Stores were landed, but the Col'nels fled.</l>
+                  <l>For baſe <hi>Londee</hi> had packt them out of Town,</l>
+                  <l>Miſrepreſenting our condition.</l>
+                  <l>This hap'ned but four days before the King,</l>
+                  <l>The Iriſh Army 'fore the Town did bring.</l>
+               </div>
+               <div n="6" type="section">
+                  <head>
+                     <hi>Sect. 6.</hi> The late King <hi>James</hi>'s Offers to the City.</head>
+                  <l>ARch-Deacon <hi>Hamm'lton</hi> by K. <hi>James</hi> is ſent;</l>
+                  <l>Unto the City with this Compliment:</l>
+                  <l>If they in four days would yield up the Town,</l>
+                  <l>All th' Inhabitants ſhould enjoy their own;</l>
+                  <l>With pardon for all paſt Rebellion.</l>
+                  <l>And he in his Commiſſion ſped ſo well,</l>
+                  <l>That <hi>Londee</hi> forc'd the Town to Article;</l>
+                  <l>Th'Ingenious <hi>Nevil,</hi> and the ſaid Divine,</l>
+                  <l>Went to King <hi>James</hi> to tell him they would ſign</l>
+                  <l>In a few days; to haſten which the King,</l>
+                  <l>The Iriſh Army 'fore the Town did bring;</l>
+                  <l>Delays are dang'rous, and he puſhes on,</l>
+                  <l>The Town to ſign the Capitulation.</l>
+                  <l>Which being ſign'd and ready to be ſent</l>
+                  <l>Great <hi>Murray</hi> throws himſelf and Compliment.</l>
+                  <pb n="34" facs="tcp:98828:21" rendition="simple:additions"/>
+                  <l>Juſt to the Walls, who lay then at <hi>Kilmore,</hi>
+                  </l>
+                  <l>And bravely fought his way upon the Shoar.</l>
+                  <l>
+                     <hi>Londee</hi> refus'd him entrance, but the Town</l>
+                  <l>Open'd the Gate to their great renown.</l>
+                  <l>The Loyal party knew his grand deſign,</l>
+                  <l>Then to his conduct they themſelves reſign.</l>
+                  <l>Then in a Moment all the Town rebells,</l>
+                  <l>And curſe the Author of the Articles.</l>
+                  <l>For at the Guard a Proclamations made,</l>
+                  <l>That all true hearts repair to the Parade;</l>
+                  <l>With Handkerchiefs on Arms; that all ſhall die,</l>
+                  <l>Who would yield up the Town to Popery.</l>
+                  <l>Then in a trice eight thouſand Men conveen,</l>
+                  <l>To whom great <hi>Murray</hi> did this Speech begin.</l>
+               </div>
+               <div n="7" type="section">
+                  <head>
+                     <hi>Sect. 7.</hi> Col. <hi>Murray</hi> moves the City to hold out.</head>
+                  <l>DEar Friends? this City is our laſt effort,</l>
+                  <l>Let's not quit this I earneſtly exhort;</l>
+                  <l>Leaſt that in <hi>Albion</hi> t'our diſgrace be ſpoke;</l>
+                  <l>That we ſubmitted to the Iriſh yoak.</l>
+                  <l>Hold out brave boys, <hi>England</hi> will ſuccour ſend,</l>
+                  <l>If we like Men the City do defend.</l>
+                  <l>Here are ſufficient to ſuſtain a Siege,</l>
+                  <l>If we to Loyalty our ſelves oblige;</l>
+                  <l>Yet all's in vain, if we do not expell,</l>
+                  <l>The Traytor <hi>Londee</hi> with his falſe Caball.</l>
+                  <pb n="35" facs="tcp:98828:21" rendition="simple:additions"/>
+                  <l>The Town conſents, huzza's do rend the Sky;</l>
+                  <l>Then unto <hi>Londee</hi> all in haſte did fly.</l>
+               </div>
+               <div n="8" type="section">
+                  <head>
+                     <hi>Sect. 8. Londee</hi>'s Impeachment and Diſcharge.</head>
+                  <l>TO whom great <hi>Murray</hi> ſpoke this fatal ſpeech,</l>
+                  <l>Of Treachery, I do you now Impeach,</l>
+                  <l>Both to the Prot'ſtant Cauſe, and to our King,</l>
+                  <l>A Popiſh Reign upon us you do bring;</l>
+                  <l>You quit <hi>Tyrone</hi> unto the Enemy,</l>
+                  <l>At <hi>Cladyford</hi> you caus'd our Army fly;</l>
+                  <l>And now you think for to betray the Town,</l>
+                  <l>By a Capitulation of your own?</l>
+                  <l>Therefore lay down your Power? for we will choſe;</l>
+                  <l>Such Loyal Men as ſhall oppoſe the Foes.</l>
+                  <l>Lieutenant <hi>Cook</hi> who from fair <hi>Lisbon</hi> came,</l>
+                  <l>Couragiouſly did the ſame Cauſe maintain.</l>
+                  <l>Great <hi>Murray</hi> ſeiz'd the Guards, the Keys and all,</l>
+                  <l>They preſently a Gen'ral Council call:</l>
+                  <l>The Church and Kirk do thither jointly go,</l>
+                  <l>In oppoſition to the common Foe;</l>
+                  <l>Although in time of Peace they diſagree,</l>
+                  <l>Yet they ſympathize in Adverſity.</l>
+               </div>
+               <div n="9" type="section">
+                  <pb n="36" facs="tcp:98828:22"/>
+                  <head>
+                     <hi>Sect. 9. Baker</hi> and <hi>Walker</hi> choſen Governours, and Eight Regiments formed.</head>
+                  <l>THem in like words great <hi>Murray</hi> thus adreſt,</l>
+                  <l>Dear Friends, th'Inteſtine Foe I have ſuppreſt.</l>
+                  <l>Here at your feet, I'll lay down all my Power,</l>
+                  <l>If you'll contrive, how we may beſt ſecure</l>
+                  <l>This Loyal Town. Then all with one conſent,</l>
+                  <l>Agreed upon this form of Government;</l>
+                  <l>
+                     <hi>Baker</hi> and <hi>Walker</hi> Governours they choſe,</l>
+                  <l>And form'd eight Reg'ments to oppoſe the Foes.</l>
+                  <l>The Horſe to Col'nel <hi>Murray</hi> they beſtow;</l>
+                  <l>Him Gen'ral of the Field they do allow.</l>
+                  <l>From <hi>Philiphaugh</hi> near <hi>Tweed,</hi> his Fathers came,</l>
+                  <l>Where they enjoy the Lairdſhip of that name.</l>
+                  <l>The noble Name of <hi>Murray</hi> is well known,</l>
+                  <l>For their great Service to the Royal Crown.</l>
+                  <l>
+                     <hi>Cairnes</hi> of <hi>Knockmany</hi>'s his Lieutenant Col'nel,</l>
+                  <l>From County of <hi>Meath</hi> his brave Major <hi>Bull.</hi>
+                  </l>
+                  <l>
+                     <hi>Coghran, Carleton, Moor, Stephen Herd,</hi> and <hi>Murray</hi>
+                  </l>
+                  <l>His valliant Brother, Captains to him be.</l>
+                  <l>The <hi>Borderers</hi> did fill his Regiment,</l>
+                  <l>Who to the Field with noble Courage went.</l>
+               </div>
+               <div n="10" type="section">
+                  <pb n="37" facs="tcp:98828:22"/>
+                  <head>
+                     <hi>Sect. 10.</hi> The Reformee of the Foot.</head>
+                  <l>THe Foot in manner foll'wing they diſpoſe,</l>
+                  <l>
+                     <hi>Baker</hi> and <hi>Walker</hi> Collonels they choſe;</l>
+                  <l>
+                     <hi>Whitney</hi> and <hi>Mitchelburn</hi> the ſame honour gain;</l>
+                  <l>To <hi>Parker</hi> the brave Reg'ment of <hi>Colerain:</hi>
+                  </l>
+                  <l>
+                     <hi>Crofton</hi> and <hi>Hammill</hi> the ſame Station grace,</l>
+                  <l>Theſe and the Voluntiers defend the place.</l>
+                  <l>Out of the broken Regiments they choſe,</l>
+                  <l>The Soldiers which this Army did compoſe.</l>
+                  <l>The Governours all matters ſoon diſpoſe,</l>
+                  <l>The Col'nels their Subaltern Off'cers choſe.</l>
+                  <l>
+                     <hi>Watſon</hi>'s made Maſter of th' Artillery,</l>
+                  <l>Two hundred Gunners and Montroſſes be.</l>
+                  <l>
+                     <hi>James Murray</hi> was Conducter to the Train,</l>
+                  <l>Our Ingenier was <hi>Adams</hi> of <hi>Strabane.</hi>
+                  </l>
+                  <l>For Town-Major they choſe Captain <hi>Freeman:</hi>
+                  </l>
+                  <l>Thus in few hours they form'd a noble band,</l>
+                  <l>Which did King <hi>James</hi>'s Forces all withſtand;</l>
+                  <l>Which now begirt the City ev'ry where,</l>
+                  <l>And theſe their ſeveral Encampments are.</l>
+               </div>
+               <div n="11" type="section">
+                  <head>Sect. 11. Galmoy's <hi>&amp;</hi> Ramſey's <hi>Camp near</hi> Balliugry <hi>hill, Weſt.</hi>
+                  </head>
+                  <l>UPon the Weſt the Daniſh Forts among,</l>
+                  <l>They form'd a Camp of 13 thouſand ſtrong,</l>
+                  <pb n="38" facs="tcp:98828:23"/>
+                  <l>This ſtops relief from <hi>Lifford</hi> and <hi>Rapho,</hi>
+                  </l>
+                  <l>Oppos'd the Wind-mill hill and Fields below.</l>
+                  <l>
+                     <hi>Galmoy</hi> and <hi>Ramſey</hi> did this Camp command,</l>
+                  <l>Which did the Town Weſt and Nore-weſt withſtand.</l>
+                  <l>On each ſide <hi>Biſhops-gate</hi> ſome Baſtions be,</l>
+                  <l>Which did this Camp annoy exceedingly.</l>
+               </div>
+               <div n="12" type="section">
+                  <head>
+                     <hi>Sect. 12.</hi> Gen'ral <hi>Hammilton's</hi> and <hi>Maimont</hi>'s Camp at <hi>Brookhall,</hi> North.</head>
+                  <l>A Second's form'd at <hi>Brookhall</hi> near <hi>Kilmore,</hi>
+                  </l>
+                  <l>Which did conſiſt of thouſands 12 and more</l>
+                  <l>Of their beſt Horſe and Foot, the <hi>French</hi> beſide,</l>
+                  <l>
+                     <hi>Hamm'lton</hi> and <hi>Maimont</hi> did this Camp preſide.</l>
+                  <l>This Camp did awe the Town Nore-weſt &amp; Nore,</l>
+                  <l>The fatal <hi>Boom</hi> lay here near to <hi>Kilmore.</hi>
+                  </l>
+               </div>
+               <div n="13" type="section">
+                  <head>
+                     <hi>Sect. 13.</hi> The Lord <hi>Lowth</hi>'s Camp on the Eaſt over the Lough.</head>
+                  <l>UPon the Eaſt another Camp was laid,</l>
+                  <l>Beyond the Lough at <hi>Strong-Orchards.</hi> They made</l>
+                  <l>A Trench and Batt'ry to annoy the Town,</l>
+                  <l>From whence moſt Booms and red hot Balls were thrown.</l>
+                  <l>
+                     <hi>Bellue</hi> &amp; <hi>Lowth</hi> commanded in this Plain,</l>
+                  <l>With the forces that conquered <hi>Colerain.</hi>
+                  </l>
+                  <pb n="39" facs="tcp:98828:23"/>
+                  <l>Sir <hi>Michael Creagh</hi> did the Boom command,</l>
+                  <l>To ſtop all ſuccours from the Neighb'ring land.</l>
+                  <l>The Boom was made of great long Oaken beams,</l>
+                  <l>Together join'd with Iron athwart the Streams;</l>
+                  <l>On top of which a mighty Cable run,</l>
+                  <l>A croſs the Lough through Staples of Iron:</l>
+                  <l>The Boom on either ſide was faſtened,</l>
+                  <l>With a croſs Beam in a Rock mortized.</l>
+                  <l>In breadth the River's half a mile and more,</l>
+                  <l>The floating Boom did reach from ſhore to ſhore.</l>
+               </div>
+               <div n="14" type="section">
+                  <head>
+                     <hi>Sect. 14.</hi> Brigadier <hi>Kearnie's</hi> Camp on the South.</head>
+                  <l>
+                     <hi>ONeals</hi> Dragoons and <hi>Kearny</hi> Brigadier,</l>
+                  <l>Did on the South a Trench &amp; Batt'ry rear.</l>
+                  <l>The Town thus girt, prepar'd for its Defence,</l>
+                  <l>And with Heroick Deeds the Siege commence.</l>
+                  <l>The Traytor <hi>Londee</hi> into <hi>Scotland</hi> flies,</l>
+                  <l>From thence's ſent Pris'ner to their Majeſties.</l>
+                  <l>Then from King <hi>James</hi> Lord <hi>Abercorn</hi> was ſent,</l>
+                  <l>To pay the Gariſon this Compliment?</l>
+                  <l>That he would them a Gen'ral Pardon fign,</l>
+                  <l>If they the Town immediately reſign.</l>
+                  <l>And to withdraw great <hi>Murray</hi> from their ſide,</l>
+                  <l>A thouſand pounds he offered; beſide</l>
+                  <l>An equal Poſt among the Iriſh Horſe,</l>
+                  <l>If he would quit the Town, and join their Force.</l>
+                  <pb n="40" facs="tcp:98828:24"/>
+                  <l>Beſides, quoth he, your Forces dare not fight.</l>
+                  <l>To whom great <hi>Murray</hi> gave this Anſwer ſtreight?</l>
+                  <l>I'll make no terms, and you for to convince,</l>
+                  <l>That we dare fight, come meet us two days hence</l>
+                  <l>At <hi>Pennyburn-mill?</hi> The Delegates do part,</l>
+                  <l>And to their Friends the Intercourſe impart.</l>
+               </div>
+            </div>
+            <div n="3" type="book">
+               <pb n="41" facs="tcp:98828:24"/>
+               <head>
+                  <hi>Londeriados.</hi> LIB. III.</head>
+               <p>Containeth the Battle of <hi>Pennyburn-Mill.</hi> Col. <hi>Murray</hi> beats the Iriſh Horſe, and kills <hi>Maimont</hi> the French Ge<g ref="char:EOLhyphen"/>neral with his own hands. The fatal Pybald Horſe ta<g ref="char:EOLhyphen"/>ken by the Proteſtants. Major <hi>Taffe</hi> ſlain. The Go<g ref="char:EOLhyphen"/>vernors encouraged by this Victory. The Battle near <hi>Elah, Puſinan, Pontee</hi> and <hi>Barwick</hi> wounded. Gene<g ref="char:EOLhyphen"/>ral <hi>Hammilton</hi> takes Colonel <hi>Murray</hi>'s Father Priſoner, forces him to intercede with his Son to quit the Town. Co<g ref="char:EOLhyphen"/>lonel <hi>Parker</hi>'s overſight, who for fear of Impeachment flies to the Enemy. A Council added to the Governours upon ſome Grievances. Colonel <hi>Lance</hi> obtains the <hi>Cole<g ref="char:EOLhyphen"/>rain</hi> Regiment. Colonel <hi>Whitney</hi> tryed by a Court-Martial, and Convicted. Colonel <hi>Monroe</hi> obtains his Poſt. Colonel <hi>Milchelburn</hi> confined. The Battle of the Windmill-hill. The Lord <hi>Netterfield,</hi> Colonel <hi>Talbot,</hi> Colonel <hi>Newcomb</hi> and Sir <hi>Gerard Ailmer</hi> taken Pri<g ref="char:EOLhyphen"/>ſoners. <hi>General Ramſey</hi> ſtain. Colonel <hi>Murray</hi> Sullies forth and burns the Enemies Faſcines. The Iriſh Entrench themſelves over the Bog. Colonel <hi>Murray</hi> beats Col. <hi>Nugent</hi> in Pickeering. The ſecond Battle of Windmill-hill. Two thouſand of the Enemy ſlain. Colonel <hi>Tal<g ref="char:EOLhyphen"/>bots</hi> Lady offers Five hundred pounds for his Ranſom.</p>
+               <div n="1" type="section">
+                  <head>Sect. 1.</head>
+                  <l>NExt unto thee? thy Hero's praiſe I'll tell,</l>
+                  <l>By whoſe great Deeds, the Iriſh Army fell<g ref="char:punc">▪</g>
+                  </l>
+                  <pb n="42" facs="tcp:98828:25"/>
+                  <l>Aſſiſt me Muſe? Whilſt I their praiſes ſing,</l>
+                  <l>With whoſe fam'd actions all the World doth ring.</l>
+                  <l>
+                     <hi>Hector</hi> was by the ſtout <hi>Achilles</hi> ſlain,</l>
+                  <l>Thrice his dead Corps around <hi>Troy</hi> walls he ta'n.</l>
+                  <l>The <hi>Rutulan</hi> King great <hi>Aeneas</hi> ſlew,</l>
+                  <l>From <hi>David's</hi> ſling a weighty ſtone there flew,</l>
+                  <l>Which ſunk the proud <hi>Goliah</hi> down to Hell:</l>
+                  <l>By <hi>Murray, Maimont</hi> the French Gen'ral fell.</l>
+               </div>
+               <div n="2" type="section">
+                  <head>Sect. 2. <hi>The Battle of</hi> Penny-burn-Mill.</head>
+                  <l>ON <hi>Sunday</hi> Morn th'appointed day commenc'd,</l>
+                  <l>By break of day the Iriſh Horſe advanc'd:</l>
+                  <l>In 2 Squadrons: their Horſe prepar'd to fight</l>
+                  <l>On the left Wing: their Foot were on the right.</l>
+                  <l>
+                     <hi>Maimont</hi> their Horſe, <hi>Hammilton</hi> their Foot Command,</l>
+                  <l>At <hi>Pennyburn</hi> River they began to ſtand;</l>
+                  <l>The ſound of Drums and Trumpets rend the Air,</l>
+                  <l>The Flower of all King <hi>James</hi>'s men were there.</l>
+                  <l>Then noble <hi>Murray</hi> haſtens to the Strand:</l>
+                  <l>Who in like manner dos his Troops Command.</l>
+                  <l>Foot againſt Foot, Horſe againſt Horſe he plac'd,</l>
+                  <l>In gallant order he the En'my fac'd.</l>
+                  <l>He with a thouſand Foot his Horſe ſuſtain'd,</l>
+                  <l>Which noble Stratagem the Battle gain'd.</l>
+                  <l>Mounted upon a gallant Steed that hour,</l>
+                  <l>He fought the Iriſh with unequal power.</l>
+                  <pb n="43" facs="tcp:98828:25"/>
+                  <l>The loud Huzza's of both Hoſts rent the sky,</l>
+                  <l>Each ſide prepar'd to fight the Enemy.</l>
+                  <l>Like to bold Lyons eager of their prey,</l>
+                  <l>Roar to amuze it, and then to it fly.</l>
+                  <l>The French came on with glittering ſword in hand,</l>
+                  <l>But our ſmart Firing made their Horſe to ſtand.</l>
+                  <l>
+                     <hi>Maimont</hi> the French, <hi>Murray</hi> our Horſe led on,</l>
+                  <l>Thirſt of honour, puſht their ambition.</l>
+                  <l>
+                     <hi>Murray</hi> like thunder thro' their Squadron broke,</l>
+                  <l>A gallant Monſieur fell at ev'ry ſtroke.</l>
+                  <l>
+                     <hi>Maimont</hi> did likewiſe with like Terror ride,</l>
+                  <l>Thorough our Troops ſlaying on ev'ry ſide.</l>
+                  <l>Both Squadrons fight with equal force and rage,</l>
+                  <l>And in cloſe combate mutually engage.</l>
+                  <l>Till death and wounds had cover'd all the ſhoar,</l>
+                  <l>For both Reſerves had fled the ſpot before.</l>
+                  <l>For our Rerſerve had fled into the Town,</l>
+                  <l>And their Reſerve could not keep their ground;</l>
+                  <l>For the brave <hi>Luddle,</hi> an Engliſh Buccaneer,</l>
+                  <l>Who led the thouſand Foot caus'd them retire.</l>
+                  <l>In the purſuit brave Major <hi>Taſſe</hi> was ſlain,</l>
+                  <l>Brave Captain <hi>Coghran</hi> did that honour gain.</l>
+                  <l>Lieutenant <hi>Carr,</hi> the Laird of <hi>Gradons</hi> Son,</l>
+                  <l>In the purſuit great reputation won.</l>
+               </div>
+               <div n="3" type="section">
+                  <pb n="44" facs="tcp:98828:26"/>
+                  <head>
+                     <hi>Sect. 3.</hi> Col. <hi>Murray</hi> kills <hi>Maimont</hi> the French General.</head>
+                  <l>THe Strand thus clear'd, <hi>Murray</hi> and <hi>Maimont</hi> meet,</l>
+                  <l>Who with dire threatnings one another greet.</l>
+                  <l>For they had oft ſought one another out,</l>
+                  <l>But ſtill were parted in the bloody rout.</l>
+                  <l>Firſt they diſcharg'd their Piſtols on the ſpot,</l>
+                  <l>In which firſt firing <hi>Murrays</hi> Horſe was ſhot.</l>
+                  <l>Yet the brave Beaſt n'ere felt the deadly wound,</l>
+                  <l>But wheel'd and pranced on the bloody ground.</l>
+                  <l>Redoubled blows they gave with ſword in hand,</l>
+                  <l>Which the ſtrong Armour ſcarcely could withſtand.</l>
+                  <l>They thunder like the <hi>Cyclops</hi> at the Forge,</l>
+                  <l>When they the Mettal on the Anvil urge.</l>
+                  <l>At laſt their Swords in ſev'ral pieces flew,</l>
+                  <l>Then with their Rapiers they the Fight renew;</l>
+                  <l>The brave <hi>Maimont</hi> began to falſify,</l>
+                  <l>And thought the day his own immediately:</l>
+                  <l>He wheel'd his Horſe, which then began to ſpurn,</l>
+                  <l>But Noble <hi>Murray</hi> made a quick return,</l>
+                  <l>For under his heav'd arm, his Sword he thruſt,</l>
+                  <l>Till at his neck the purple gore out burſt.</l>
+                  <l>His fleeting Soul with the free blood expir'd,</l>
+                  <l>And our great Hero to the Foot retir'd.</l>
+               </div>
+               <div n="4" type="section">
+                  <pb n="45" facs="tcp:98828:26"/>
+                  <head>
+                     <hi>Sect. 4.</hi> The Iriſh Foot beaten.</head>
+                  <l>WHere they the Iriſh Foot had ſoundly beat,</l>
+                  <l>And caus'd them all into their camp retreat.</l>
+                  <l>Brave Major <hi>Blair</hi> the En'mies fire ſuſtain'd,</l>
+                  <l>And with great Feats a reputation gain'd.</l>
+                  <l>Young <hi>Franck Crofton</hi> among their Forces flew,</l>
+                  <l>And with dire blows a multitude he ſlew.</l>
+                  <l>
+                     <hi>Noble</hi> like lightning fell amongſt their Foot,</l>
+                  <l>
+                     <hi>Dumbar</hi> with Red-coats put the En'my to't.</l>
+                  <l>The valiant <hi>Cook</hi> from <hi>Liſmagarvy</hi> fought,</l>
+                  <l>And conquer'd hundreds which his ruin ſought.</l>
+                  <l>Lieutenant <hi>Rankin</hi> hew'd the Iriſh down,</l>
+                  <l>And in that Battle gained much Renown.</l>
+                  <l>
+                     <hi>Tom Barr</hi> a Trooper with one mighty blow,</l>
+                  <l>Cut off the head of an oppoſing Foe.</l>
+                  <l>Two thouſand ſlain, the empty ſhoar had fill'd,</l>
+                  <l>With ſeventy three Commiſſion'd Off'cers kill'd.</l>
+                  <l>On our ſide not a few: Cornet <hi>Brown</hi>'s ſlain,</l>
+                  <l>And the valiant Lieutenant <hi>Phetrix</hi> then.</l>
+                  <l>Lieutenant <hi>Mackay</hi> fell upon the ſpot,</l>
+                  <l>And young <hi>Macklellan</hi>'s wounded with a ſhot:</l>
+                  <l>The ancient Father did his Son revenge,</l>
+                  <l>Who with the Foe did many a blow exchange.</l>
+                  <l>The tender Parents view'd the bloody day,</l>
+                  <l>From off the ſtately Walls by the Ship-key,</l>
+                  <pb n="46" facs="tcp:98828:27"/>
+                  <l>For near the Walls upon the ſhoar they fought,</l>
+                  <l>The tender Parents their dear Children ſought,</l>
+                  <l>The Wife her Husband; then back to the Town,</l>
+                  <l>Our Hoſt return'd in Triumph and Renown.</l>
+                  <l>Great was the Spoil and Plunder of that day,</l>
+                  <l>For all returned with ſome goodly Prey;</l>
+                  <l>'Mongſt which a Pyde-bald Horſe which <hi>Columkill</hi>
+                  </l>
+                  <l>Foretold, if taken at the <hi>Pennyburn-Mill,</hi>
+                  </l>
+                  <l>The Iriſh ſhould expect no more ſucceſs,</l>
+                  <l>This fatal Horſe was taken in the Chace.</l>
+               </div>
+               <div n="5" type="section">
+                  <head>
+                     <hi>Sect. 5.</hi> The Governours Encouraged by this Victory to Act.</head>
+                  <l>THis Victory Confirm'd the Government,</l>
+                  <l>
+                     <hi>Baker</hi> and <hi>Walker</hi> mutually Conſent</l>
+                  <l>To ſettle Quarters, and to Regulate</l>
+                  <l>The Stores, o're which <hi>Harvey</hi> a Merchant's ſet</l>
+                  <l>The Town into four Quarters they divide,</l>
+                  <l>And place two Regiments in ev'ry ſide.</l>
+                  <l>They gath'red all Proviſions into Store,</l>
+                  <l>And equally diſpence to rich and poor:</l>
+                  <l>This was good Policy without all doubt,</l>
+                  <l>That they might longer hold the City out.</l>
+                  <l>They plac'd two Great Guns on the Steeple top,</l>
+                  <l>Which gave the Iriſh many a deadly rap.</l>
+                  <l>They planted Gunners likewiſe on the walls,</l>
+                  <l>And then diſpatch each matter as it falls.</l>
+                  <pb n="47" facs="tcp:98828:27"/>
+                  <l>The Church and Kirk did jointly preach and pray,</l>
+                  <l>In St. <hi>Columba</hi>'s Church moſt lovingly:</l>
+                  <l>Where Doctor <hi>Walker</hi> to their great content,</l>
+                  <l>Preach't ſtoutly 'gainſt a Popiſh Government.</l>
+                  <l>Maſter <hi>Mackenzie</hi> preach't on the ſame Theame,</l>
+                  <l>And taught the Army to fear God's great Name.</l>
+                  <l>The Rev'rend <hi>Ruit</hi> did confirm us ſtill,</l>
+                  <l>Preaching ſubmiſſion to God's Holy Will.</l>
+                  <l>He likewiſe Propheſied our Relief,</l>
+                  <l>When it ſurpaſſed all Humane belief.</l>
+                  <l>The ſame was taught by the learn'd Mr. <hi>Crooks,</hi>
+                  </l>
+                  <l>And Maſter <hi>Hammilton</hi> ſhew'd it from his Books.</l>
+                  <l>Then <hi>Mills</hi> a <hi>Ruling</hi> elder, ſpoke the ſame,</l>
+                  <l>Of our Relief, ſix weeks before it ſame,</l>
+                  <l>From Sun-riſing to Sun-ſetting they taught,</l>
+                  <l>Whilſt we againſt the En'my bravely fought.</l>
+                  <l>Thus Heaven aſſiſts thoſe Actions which proceed</l>
+                  <l>From un<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ty, in greateſt time of need.</l>
+               </div>
+               <div n="6" type="section">
+                  <head>
+                     <hi>Sect. 6.</hi> General <hi>Hammilton</hi> takes Collonell <hi>Murray</hi>'s Father Priſoner, and ſends him to move his Son to quit the Town.</head>
+                  <l>GEn'ral <hi>Hammilton</hi> had Intelligence,</l>
+                  <l>That <hi>Murray</hi>'s Father liv'd not far from thence.</l>
+                  <l>Who's eighty years of age, and ſomewhat more,</l>
+                  <l>For him he ſent a Guard with mighty power;</l>
+                  <pb n="48" facs="tcp:98828:28"/>
+                  <l>To bring him Pris'ner to their Northern Camp,</l>
+                  <l>This great ſurprize did not his Courage damp.</l>
+                  <l>For with the Guard the old Man haſtens on,</l>
+                  <l>T' appear before Great Gen'ral <hi>Hammilton;</hi>
+                  </l>
+                  <l>With great Courage the Senior ask't his will,</l>
+                  <l>Quoth he, your Son does 'gainſt the King rebel,</l>
+                  <l>And forces them to hold the City out;</l>
+                  <l>Whom you may Counſel better without doubt,</l>
+                  <l>In ſhort, we'll hang you up immediately,</l>
+                  <l>If you'll not make him to our will comply.</l>
+                  <l>To whom the Senior gave this anſwer ſtraight,</l>
+                  <l>I'll uſe m'authority with all my might;</l>
+                  <l>But when all's done, I'm ſure he'll ne're diſown</l>
+                  <l>His firm Allegiance to the Engliſh Crown.</l>
+                  <l>But if you'll guard me to the Town, I'll try</l>
+                  <l>If I can make him with your will comply:</l>
+                  <l>In haſte he's guarded to the Loyal Town,</l>
+                  <l>Where he's receiv'd with great joy by his Son.</l>
+                  <l>They tenderly do one another greet,</l>
+                  <l>And his grave Parent Counſels him what's meet.</l>
+                  <l>Dear Son, I'm ſent by Gen'ral <hi>Hammilton,</hi>
+                  </l>
+                  <l>To ſee if I can make you quit the Town;</l>
+                  <l>But by this ſacred Book I you conjure,</l>
+                  <l>Never to yield unto a Popiſh Power;</l>
+                  <l>Our holy Faith and Loyalty enjoyn,</l>
+                  <l>A ſtrict abhorrence of a Popiſh Reign.</l>
+                  <l>Thus <hi>Hannibal</hi> was at the Altar ſwore,</l>
+                  <l>Eternal En'my to the Roman Power.</l>
+                  <pb n="49" facs="tcp:98828:28"/>
+                  <l>With kind embraces the old Man departs,</l>
+                  <l>And to the Gen'ral the ſad News imparts?</l>
+                  <l>That nought can force his Son to quit the Town,</l>
+                  <l>And therefore humbly begs Protection.</l>
+                  <l>The Gen'rous <hi>Hammilton</hi> does grant the ſame,</l>
+                  <l>Then to his Dwelling the grave Senior came,</l>
+                  <l>Where all along he did in ſafety dwell;</l>
+                  <l>Though by his Son the Iriſh Army fell.</l>
+               </div>
+               <div n="7" type="section">
+                  <head>Sect. 7. <hi>The Battle near</hi> Elah.</head>
+                  <l>AGainſt the weakeſt ſide our Gen'ral ſaw,</l>
+                  <l>The Enemy their greateſt Forces draw;</l>
+                  <l>Which to prevent, with all the Forces he</l>
+                  <l>Sprung forth at Morn to fight the Enemy.</l>
+                  <l>Near <hi>Elah</hi> in the Parks <hi>Murray</hi> came on,</l>
+                  <l>The Iriſh Army led by <hi>Hammilton.</hi>
+                  </l>
+                  <l>Where he continu'd Fighting till 't was noon,</l>
+                  <l>Then we were flank'd by th'Enemies Dragoon.</l>
+                  <l>To beat <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ff which, he choſe five hundred men,</l>
+                  <l>With Captains <hi>Taylor, Moor</hi> and <hi>Saunderſon.</hi>
+                  </l>
+                  <l>
+                     <hi>Murray</hi> himſelf did the brave Troops Command,</l>
+                  <l>Who bravely did the Foes Dragoons withſtand;</l>
+                  <l>Great <hi>Puſman</hi> came boldly up to fight,</l>
+                  <l>But <hi>Murray</hi> quickly put him to the flight,</l>
+                  <l>
+                     <hi>Berwick</hi> and <hi>Pontee</hi> likewiſe wounded were,</l>
+                  <l>By valiant <hi>Murray</hi> and the brave <hi>Dumbar.</hi>
+                  </l>
+                  <pb n="50" facs="tcp:98828:29"/>
+                  <l>Brave Major <hi>Bull</hi> did wonders in that fight,</l>
+                  <l>For he beat back the Enemy on the right.</l>
+                  <l>
+                     <hi>Crofton</hi> and <hi>Baſhford</hi> did much Honour gain,</l>
+                  <l>By Captain <hi>Noble</hi> multitudes were ſlain;</l>
+                  <l>From <hi>Liſneskea</hi> in <hi>Farmannagh</hi> he came,</l>
+                  <l>But now he's Maior <hi>Noble</hi> of the ſame.</l>
+                  <l>
+                     <hi>Gairnes</hi> in our Center ſtood firm as a Rock,</l>
+                  <l>And ne're was moved with their mighty ſhock.</l>
+                  <l>He and his friends oppos'd the Enemy,</l>
+                  <l>And in this Battle fought moſt valiantly.</l>
+                  <l>Lieutenant <hi>Lindſey</hi> Baron of <hi>Donrodes</hi> Son,</l>
+                  <l>Did in this Battle great applauſes won.</l>
+                  <l>Captain <hi>Barrel</hi> from <hi>Orney</hi> near <hi>Strabane,</hi>
+                  </l>
+                  <l>Did in this action Reputation gain.</l>
+                  <l>
+                     <hi>Sanderſon</hi> of <hi>Tillilagan</hi> in <hi>Tyrone,</hi>
+                  </l>
+                  <l>With bravery great Reputation won.</l>
+                  <l>The valiant <hi>Moor</hi> of <hi>Ochar</hi> with great might,</l>
+                  <l>Cut down the En'my in this bloody fight.</l>
+                  <l>Lieutenant <hi>Cook</hi> oppos'd the Enemy,</l>
+                  <l>And forc't their braveſt Hero's for to fly.</l>
+                  <l>Lord <hi>Abercorn</hi> both quit his Boots and Horſe,</l>
+                  <l>Without his Cloak he fled with all his Force.</l>
+                  <l>Then in a trice we did the Enemy beat,</l>
+                  <l>And caus'd them to their Camp in haſte retreat,</l>
+                  <l>We burn't their Store at <hi>Elah</hi> without pitty,</l>
+                  <l>And then began to march home to the City.</l>
+               </div>
+               <div n="8" type="section">
+                  <pb n="51" facs="tcp:98828:29"/>
+                  <head>Sect. 8. <hi>Collonel</hi> Parkers <hi>over-ſight.</hi>
+                  </head>
+                  <l>WHen we marcht forth we carefuly had ſent,</l>
+                  <l>Moſt of our Horſe, of Foot a Regiment,</l>
+                  <l>T'obſerve the Camp by Gen'ral <hi>Ramſey</hi> kept;</l>
+                  <l>Leſt they our marching home might intercept.</l>
+                  <l>But Col'nell <hi>Parker</hi> for ſome grand deſign,</l>
+                  <l>Had them commanded off; before that time.</l>
+                  <l>Them <hi>Ramſey</hi> boldly with both Foot and Horſe,</l>
+                  <l>Came quickly up to intercept our Force.</l>
+                  <l>This great ſurprize did all our ſpirits damp;</l>
+                  <l>Fearing our men were ſlain by to'ther Camp.</l>
+                  <l>But Col'nell <hi>Murray</hi> and brave <hi>Aubery,</hi>
+                  </l>
+                  <l>Oppos'd the fame and forc'd them back to fly</l>
+                  <l>Till all our men got ſafely into Town,</l>
+                  <l>In which brisk action, they gain'd great renown.</l>
+                  <l>
+                     <hi>Baker</hi> and <hi>Hammil</hi> brought forth a great Gun,</l>
+                  <l>Strengthned by Lieutenant Col'nell <hi>Wigton;</hi>
+                  </l>
+                  <l>But their aſſiſtance came to us too late,</l>
+                  <l>For <hi>Ramſeys</hi> firing forc'd us to retreat.</l>
+                  <l>But Col'nell <hi>Parker</hi> for ſome policy,</l>
+                  <l>Fled the ſame night unto the Enemy.</l>
+                  <l>His <hi>Coletain</hi> Reg'ment Col'nell <hi>Lance</hi> obtains,</l>
+                  <l>Who in the preſent ſervice Honour gains.</l>
+               </div>
+               <div n="9" type="section">
+                  <pb n="52" facs="tcp:98828:30"/>
+                  <head>
+                     <hi>Sect. 9.</hi> A Council added to the Governours upon ſome Grie<g ref="char:EOLhyphen"/>vances.</head>
+                  <l>UPon ſome Grievances we chang'd the powers</l>
+                  <l>And add a Council to the Governours;</l>
+                  <l>Firſt all the Col'nels, and then four more;</l>
+                  <l>Two for the Town, two for the Countrey Boor,</l>
+                  <l>
+                     <hi>Cocken</hi> and <hi>Squire</hi> were choſen for the Town;</l>
+                  <l>For Countrey, Doctor <hi>Jennings</hi> and <hi>Gladſtone.</hi>
+                  </l>
+                  <l>
+                     <hi>Jennings</hi> the Arch-Deacon of <hi>Oſſory;</hi>
+                  </l>
+                  <l>And now the learned Rector of <hi>Artree.</hi>
+                  </l>
+                  <l>Then in this Council, this a Law was made,</l>
+                  <l>No <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct ſhould paſs unleſs ſeven gave their aid:</l>
+                  <l>
+                     <hi>Mogrige</hi> was Secretary to this power,</l>
+                  <l>For <hi>Bennet</hi> was to <hi>England</hi> ſent before,</l>
+                  <l>To give their Majeſties an Information,</l>
+                  <l>Of what had hap'ned ſince the Sieg's formation.</l>
+                  <l>He to their Camp as a Deſerter flies,</l>
+                  <l>And in few days himſelf from thence conveys,</l>
+                  <l>And tells our caſe unto their Majeſties.</l>
+                  <l>
+                     <hi>Whitneys</hi> convict; <hi>Monroe</hi> his Poſt obtain'd,</l>
+                  <l>Who by his merits had that honour gain'd;</l>
+                  <l>He's Ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or Gen'ral <hi>Monroes</hi> Brother Son,</l>
+                  <l>Who did oppoſe the Foe in forty one.</l>
+                  <l>They likewiſe Col'nell <hi>Michelburn</hi> confine,</l>
+                  <l>And by good Laws their Government maintain,</l>
+               </div>
+               <div n="10" type="section">
+                  <pb n="53" facs="tcp:98828:30"/>
+                  <head>Sect. 10. <hi>The Battle of</hi> Windmill-Hill.</head>
+                  <l>THen Gen'ral <hi>Ramſey</hi> with 5 thouſand ſtrong,</l>
+                  <l>By break of day, entrench'd himſelf upon,</l>
+                  <l>The <hi>Windmill-Hill:</hi> our liberty was gone,</l>
+                  <l>They from their Trenches could kill ev'ry one,</l>
+                  <l>That iſſu'd forth or entred Biſhops-Gate;</l>
+                  <l>This ſuddain motion did much hurt create.</l>
+                  <l>To repell which we ſent forth a ſtrong Band,</l>
+                  <l>Which Captain <hi>Baſhford</hi> and <hi>Dumbar</hi> Command;</l>
+                  <l>And <hi>Wilſon, Gunter, Moor</hi> and <hi>Flemming,</hi> they</l>
+                  <l>Attack their Trenches and the En'my ſlay.</l>
+                  <l>Couragious <hi>Gunter</hi> paſt their Trenches end,</l>
+                  <l>And flankt the Enemy with ſome valiant Men.</l>
+                  <l>
+                     <hi>Forbus</hi> like Thunder 'mongſt their Forces flew,</l>
+                  <l>And with his Sword a multitude he ſlew?</l>
+                  <l>In that Attack <hi>Ramſey</hi> himſelf was ſlain;</l>
+                  <l>Scarce of five thouſand the one half remain.</l>
+                  <l>Major <hi>Dobbin</hi> led on ſome valiant Men;</l>
+                  <l>Who preſently the <hi>Iriſh</hi> Trenches gain.</l>
+                  <l>Then Captain <hi>Pogue</hi> fought moſt couragiouſly,</l>
+                  <l>And with his Sword cut down the Enemy.</l>
+                  <l>We took ſome Priſoners of Quality,</l>
+                  <l>In this Attack, and theſe their honours be;</l>
+                  <l>Lord <hi>Netterfield,</hi> Col'nell <hi>Talbot</hi> and <hi>Newcomb,</hi>
+                  </l>
+                  <l>Sir <hi>Gerard Ailmer;</hi> theſe we carry home.</l>
+                  <pb n="54" facs="tcp:98828:31"/>
+                  <l>At length our Horſe came into the purſuit,</l>
+                  <l>And then our Gen'ral put the En'my to't.</l>
+                  <l>To <hi>Bellimagrorty</hi> we the foe purſue,</l>
+                  <l>And all along the Brow their forces ſlew.</l>
+                  <l>
+                     <hi>Murdagh</hi> our Gen'rals Quarter maſters ſlain,</l>
+                  <l>Who in all actions did much honour gain;</l>
+                  <l>For he could ſix or ſeven at leaſt withſtand,</l>
+                  <l>And could effect a deſperate command;</l>
+                  <l>Though he be ſlain, his Fame ſhall never dye,</l>
+                  <l>Whilſt <hi>Derry's</hi> Siege is told in Poetry.</l>
+                  <l>We forc'd them to blow up a Magazine</l>
+                  <l>Of Powder, for fear we the ſame ſhould win.</l>
+                  <l>Then we return'd with Glory and renown,</l>
+                  <l>With chearful hearts unto the joyful Town.</l>
+               </div>
+               <div n="11" type="section">
+                  <head>
+                     <hi>Sect. 11.</hi> The burning of the Enemies Faſcines.</head>
+                  <l>IN a few days our Gen'ral ſallies forth,</l>
+                  <l>With 15 hundred Men towards the North:</l>
+                  <l>Capt. <hi>Coningham</hi> and <hi>Noble</hi> he Commands,</l>
+                  <l>T'attack a Fort which towards the <hi>Inch</hi> ſtands:</l>
+                  <l>Which they poſſeſt with mighty ſtrength &amp; force,</l>
+                  <l>But were ſurpriz'd by my Lord <hi>Galmoys</hi> Horſe;</l>
+                  <l>Who beat them off and ſlew 'bove thirty men,</l>
+                  <l>'Mongſt whom their valiant Captain <hi>Coningham;</hi>
+                  </l>
+                  <l>After quarters giv'n: then <hi>Noble</hi> he retreats,</l>
+                  <l>Unto our Gen'ral who wrought mighty feats;</l>
+                  <pb n="55" facs="tcp:98828:31"/>
+                  <l>For he attackt their Trenches near <hi>Brookhall,</hi>
+                  </l>
+                  <l>And beat them out, and burnt their Faſcines all;</l>
+                  <l>In this great action Collonel <hi>Monroe,</hi>
+                  </l>
+                  <l>Cut down the Iriſh with a mighty blow.</l>
+                  <l>Captain <hi>Erwin</hi> acted above mans power,</l>
+                  <l>But was diſabl'd by a Shot; that hour,</l>
+                  <l>He's Son to Cornet <hi>Erwin</hi> of forty one,</l>
+                  <l>Who gain'd great praiſe in that Rebellion.</l>
+                  <l>Into the City we retreat apace,</l>
+                  <l>For us moſt boldly they began to chaſe.</l>
+               </div>
+               <div n="12" type="section">
+                  <head>
+                     <hi>Sect. 12.</hi> The Enemy Entrench themſelves over the Bog.</head>
+                  <l>WIthin few days the Enemy begin,</l>
+                  <l>T'entrench themſelves, <hi>Hamilton</hi> &amp; <hi>Lozin,</hi>
+                  </l>
+                  <l>Were Gen'rals; it was juſt over the Bog,</l>
+                  <l>Where they their Trenches in our preſence dug;</l>
+                  <l>This bold attempt rouz'd up our Gen'rals Soul,</l>
+                  <l>For they their Trenches made without controul;</l>
+                  <l>He choſe three thouſand Men and fally'd out;</l>
+                  <l>And ſoundly beat the En'my without doubt,</l>
+                  <l>Out of their Trenches; but they reinforce,</l>
+                  <l>And beat us ſtill of with ſome Troops of Horſe.</l>
+                  <l>Thrice he their Trenches gain'd, they regain them,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o reinforcement from the City came;</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>anghop</hi> againſt us came with freſh ſupplies,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur beaten Forces to the City flyes.</l>
+                  <pb n="56" facs="tcp:98828:32"/>
+                  <l>This rais'd great anger to the Governours,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> they ſent aid the Trenches had been ours.</l>
+                  <l>Our General did wonders every where,</l>
+                  <l>Aſſiſted by Lieutenant Coll'nel <hi>Blair.</hi>
+                  </l>
+               </div>
+               <div n="13" type="section">
+                  <head>Sect. 13. <hi>Co<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nell</hi> Murray <hi>beats Col'nell</hi> Nugent <hi>in</hi> Pic<g ref="char:EOLhyphen"/>queering.</head>
+                  <l>IN a few days our Forces ſalley all,</l>
+                  <l>To fight the Foe entrenched near <hi>Brookhall</hi>
+                  </l>
+                  <l>But they retreat without e're ſtriking blow;</l>
+                  <l>Then our Gen'ral dos a Picqueering go.</l>
+                  <l>Col'nel <hi>Nugent</hi> had made a ſolemn vow,</l>
+                  <l>That he would Col'nel <hi>Murray</hi> overthrow;</l>
+                  <l>Then in a Daniſh Fort he and his friend,</l>
+                  <l>To intercept our Gen'ral did intend:</l>
+                  <l>As he return'd, they challenge him to ſtand;</l>
+                  <l>And who he's for, they boldly do demand;</l>
+                  <l>For you quoth he; and then at them let's fly,</l>
+                  <l>The one eſcap'd; but tother there did dye.</l>
+                  <l>He that fled his Scarlet Cloak had loſt,</l>
+                  <l>Which on our Gen'ral by the wind was toſt.</l>
+               </div>
+               <div n="14" type="section">
+                  <pb n="57" facs="tcp:98828:32"/>
+                  <head>Sect. 14. <hi>The ſecond Battle of</hi> Wind-mill-Hill.</head>
+                  <l>TO guard the <hi>Wind-mill-Hill</hi> from th'e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>We rais'd ſtrong Trenches up immed<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>From <hi>Columb's-Wells</hi> near to the flowing tyde<g ref="char:punc">▪</g>
+                  </l>
+                  <l>And lin'd the ſame with Men on ev'ry ſide.</l>
+                  <l>Col'nel <hi>Monroe,</hi> was poſted near the Walls,</l>
+                  <l>Brave <hi>Campbels</hi> Poſt upon his left hand fall<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Along the Trenches ſome brave Captains, <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>Who valiantly our Forces did command.</l>
+                  <l>Near to the Lough Liuetenant Col'nel <hi>Ca<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </l>
+                  <l>Receives his ſtanding, who great honour ea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>In a few hours their Granadeers came on,</l>
+                  <l>Col'nel <hi>Nugent</hi> led the Battalion:</l>
+                  <l>He briskly us attacqued at the Wells;</l>
+                  <l>And brave <hi>Monroe</hi> as briskly him repells.</l>
+                  <l>They fought like Lyons, till their Col'nel fell</l>
+                  <l>
+                     <hi>Nugent</hi> was wounded: then brave <hi>O farrel,</hi>
+                  </l>
+                  <l>Upon his right with two Battalions,</l>
+                  <l>Came fiercely up, who fought like bold Lions</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill he was ſlain. <hi>Waughop</hi> and <hi>Buchan</hi> next,</l>
+                  <l>With ten Battalions which our Trenches ve<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Ye<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> they could not our conſtant fire ſuſtain,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or dead Mens Corps had cover'd all the pla<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>The <hi>Iriſh</hi> preſt our Trenches at the Strand;</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill Noble Captain <hi>Aſh</hi> did them withſtand.</l>
+                  <pb n="58" facs="tcp:98828:33"/>
+                  <l>Captain <hi>Armſtrong</hi> came boldly up to fight;</l>
+                  <l>And put their braveſt Heroes to the flight.</l>
+                  <l>Brave <hi>Robert Porter</hi> his Pike away he threw,</l>
+                  <l>And with round ſtones nine <hi>Iriſh</hi> Soldiers ſlew,</l>
+                  <l>
+                     <hi>Gladſtones</hi> and <hi>Baird</hi> encouraged our Foot,</l>
+                  <l>And Captain <hi>Hannah</hi> the Foe ſtoutly fought;</l>
+                  <l>Their Horſe came ſtoutly up with heart and hand;</l>
+                  <l>And thought our Trenches could not them withſtand</l>
+                  <l>Th'attack was fierce, we briskly them repell,</l>
+                  <l>For in this action many a Trooper fell.</l>
+                  <l>Of th'enemy brave Captain <hi>Watſon's</hi> ſlain,</l>
+                  <l>Captain <hi>Mackdonnel</hi> and Captain <hi>Butler</hi> ta'ne;</l>
+                  <l>A Captain of Horſe and all his men were ſlain.</l>
+                  <l>The Valiant <hi>Cairnes</hi> did wonders in the field,</l>
+                  <l>Some of the braveſt Foe did to him yield;</l>
+                  <l>Brave Captain <hi>Lane</hi> encouraged our Men;</l>
+                  <l>For on this place al multitude were ſlain.</l>
+                  <l>Their Foot bore off their dead upon their back;</l>
+                  <l>To ſave their Bodies from our fires attack.</l>
+                  <l>In fine two thouſand of th'enemy's ſlain,</l>
+                  <l>For with our Troops we them purſue again.</l>
+                  <l>Of ours brave <hi>Maxwell</hi> fell upon the ſpot;</l>
+                  <l>For he was wounded with a Cannon Shot.</l>
+                  <l>Whilſt Col'nel <hi>Hammil</hi> dos the Foe purſue,</l>
+                  <l>Thorough his Cheek a Piſtol Bullet flew.</l>
+                  <l>The Valiant <hi>Murray</hi> flew from Trench to Trench</l>
+                  <l>And helpt our Men in any deadly pinch.</l>
+               </div>
+               <div n="15" type="section">
+                  <pb n="59" facs="tcp:98828:33"/>
+                  <head>Sect. 15.</head>
+                  <l>IN a few days a Trumpeter was ſent,</l>
+                  <l>To treat of Col'nel <hi>Talbots</hi> releaſement.</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ive Hundred pounds his Lady offered,</l>
+                  <l>If we her Huſband to her deliver'd.</l>
+                  <l>The ſame in Council held ſome long debates;</l>
+                  <l>Which 'twixt our Senators great heats creates;</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or <hi>Baker</hi> he withſtood the ſame boldly;</l>
+                  <l>But <hi>Walker</hi> and the reſt the ſame decree.</l>
+                  <l>To whom great <hi>Baker</hi> opened his mind,</l>
+                  <l>And with ſound reaſons did his arg'ments bind.</l>
+                  <l>What would our Noble King hereunto ſay,</l>
+                  <l>If we for lucre ſhould his cauſe betray.</l>
+                  <l>Great <hi>Murray</hi> would thereto have giv'n conſent,</l>
+                  <l>If ſhe had Bullocks for the Money ſent.</l>
+                  <l>Yet the ſame Spring that mov'd the Loyal Town,</l>
+                  <l>Sent back the Lady with Five hundred pound.</l>
+                  <l>And preſently without e're taking Bail,</l>
+                  <l>Lockt up the Pris'ners in the common Goal.</l>
+               </div>
+            </div>
+            <div n="4" type="book">
+               <pb n="60" facs="tcp:98828:34"/>
+               <head>
+                  <hi>Londeriados.</hi> LIB. IV.</head>
+               <p>Containeth the Account of a Star which appeared in the day time during the Si<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge, as a good Omen of their Relief. Major-General <hi>Kirk</hi>'s coming into the <hi>Lough,</hi> with Forces and Proviſions from <hi>England:</hi> But <hi>Kil<g ref="char:EOLhyphen"/>more-Fort</hi> and the <hi>Boom</hi> hinder our Relief. A Meſ<g ref="char:EOLhyphen"/>ſenger ſent to ſwim to the Fleet, but is drowned. A Barge built for Intelligence, upon the News of <hi>Enniskil<g ref="char:EOLhyphen"/>ling</hi> Men being come for our Relief. The Engagement of the Barge with two <hi>Iriſh</hi> Boats. <hi>Glencarty</hi>'s Bra<g ref="char:EOLhyphen"/>vado. The ſcarcity of Food; The Peſtilential Feaver. Governor <hi>Baker</hi>'s Sickneſs and Death: His Character. Collonel <hi>Mitchelburn</hi> nam'd Governor by <hi>Baker</hi> before his Death. The Bombarding of the City. The driving of the Proteſtants to the Walls, to move the City to yield. The Famine. A Treaty about Surrendring the City. The Sto<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m at <hi>Butchers-Gate.</hi> Collonel <hi>Murray</hi> moun<g ref="char:EOLhyphen"/>ded with a Shot. Captain <hi>Coghrans</hi> Salley. Coun<g ref="char:EOLhyphen"/>ſellor <hi>Cairne</hi>'s Expreſs to <hi>Kirk</hi> to Relieve the City. Captain <hi>Browning</hi> breaks the <hi>Boom,</hi> and is Shot; but his Ship and Captain <hi>Douglaſſes</hi> Relieve the City. The Service of the Gunners on the Walls. The Iriſh Army raiſe their Siege, and march to <hi>Dublin. Kirk</hi> Lands near <hi>Inch,</hi> and marches with the <hi>Engliſh</hi> Forces to <hi>Dery,</hi> and appoints Collonel <hi>Mitchelburn</hi> Governor.</p>
+               <div n="1" type="section">
+                  <pb n="61" facs="tcp:98828:34"/>
+                  <head>Sect. 1.</head>
+                  <l>ASſiſt me Muſe? whilſt I his praiſes Sing,</l>
+                  <l>Who is of all the everlaſting Spring;</l>
+                  <l>The Powerful God, who led the <hi>Hebrews</hi> on</l>
+                  <l>Through thouſand dangers; from Gen'ration</l>
+                  <l>To Gene'ration; till at length he brought</l>
+                  <l>Them to the Land of <hi>Canaan</hi> ſo long ſought.</l>
+                  <l>The ſame <hi>Jehovah</hi> kept this Garriſon,</l>
+                  <l>'Twas he alone, who all theſe Battles won.</l>
+                  <l>'Twas he that diſpoſſeſt the <hi>Jebuſite,</hi>
+                  </l>
+                  <l>'Twas he alone that beat the <hi>Jacobite.</hi>
+                  </l>
+                  <l>For as he led the <hi>Hebrews</hi> by a Fire,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n the dark Night, when <hi>Phoebus</hi> did retire;</l>
+                  <l>And as a Star foretold our Saviour's Birth,</l>
+                  <l>Who brought Salvation to the Captive earth;</l>
+                  <l>So at this time a gliſtering Star we have,</l>
+                  <l>Which all day long a benign aſpect gave,</l>
+                  <l>From the South-Eaſt; the learn'd thence did draw</l>
+                  <l>Hopes of Relief; and our Succeſs ſoreſaw.</l>
+                  <l>The thoughtleſs Mob ne're heed the glorious Star,</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut generally againſt good Omens War.</l>
+                  <l>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t ſhone till even from the bright morning-dawn;</l>
+                  <l>At our Relief the Heavenly light's withdrawn.</l>
+               </div>
+               <div n="2" type="section">
+                  <pb n="62" facs="tcp:98828:35"/>
+                  <head>Sect. 2.</head>
+                  <l>TWas plain the Iriſh had Intelligence,</l>
+                  <l>When we deſign'd our Sallies forth from hence;</l>
+                  <l>Which to prevent and join in ſecrecy.</l>
+                  <l>The Council took an Oath of Privacy,</l>
+                  <l>To Salley forth on <hi>Monday</hi> Morn betimes,</l>
+                  <l>And fight the En'my in their ſtrongeſt Lines.</l>
+                  <l>Nevertheleſs on <hi>Sunday</hi> even they cry,</l>
+                  <l>Are you not ready for your great Salley.</l>
+                  <l>Envy the bane of all Society,</l>
+                  <l>Defeats deſigns of Magnaminity.</l>
+                  <l>This treachery our deſign'd meaſures broke,</l>
+                  <l>Then we our Preparations all revoke.</l>
+               </div>
+               <div n="3" type="section">
+                  <head>
+                     <hi>Sect. 3.</hi> The Engliſh Fleet-appears in the <hi>Lough.</hi>
+                  </head>
+                  <l>MEan time ſome Tranſport Ships and Men of War,</l>
+                  <l>Below <hi>Kilmore</hi> by us diſcover'd are;</l>
+                  <l>But all in vain, <hi>Kilmore</hi> was in the hands</l>
+                  <l>Of th'Enemy, which Fort the <hi>Lough</hi> commands</l>
+                  <l>Beſides the Iriſh Camp on each ſide ſtood;</l>
+                  <l>The fatal Boom and Rope did croſs the Flood.</l>
+                  <l>We fir'd a Beacon on the Steeple head,</l>
+                  <l>To give the Signal of our want of Bread.</l>
+                  <pb n="63" facs="tcp:98828:35"/>
+                  <l>Yet all in vain, <hi>Kirk</hi> would not venture up,</l>
+                  <l>Some ſay of Uſquebaugh he had got a Cup.</l>
+                  <l>We likewiſe heard that <hi>Enniskilling</hi> Men,</l>
+                  <l>For our Relief were come near to <hi>Strabane.</hi>
+                  </l>
+                  <l>We ſent a Man to ſwim to th' Engliſh Fleet,</l>
+                  <l>As he ſwam hence, he dy'd with cramp in's feet.</l>
+                  <l>He carry'd Letters in a Box with skrews,</l>
+                  <l>But by his death they loſt the diſmal news.</l>
+               </div>
+               <div n="4" type="section">
+                  <head>
+                     <hi>Sect. 4.</hi> The Exploit of the Barge of Intelligence.</head>
+                  <l>TO get Intelligence we built a Barge,</l>
+                  <l>Of wondrous ſwiftnſs, which was long and large;</l>
+                  <l>And plac'd a Drake therein or two beſide,</l>
+                  <l>When we had need to ſail or row with tide.</l>
+                  <l>To know the truth, and let them underſtand,</l>
+                  <l>Our great diſtreſs: Great <hi>Murray</hi> did command,</l>
+                  <l>Some of the ableſt Seamen of the Town,</l>
+                  <l>To Mann the Barge, and ſail to <hi>Donnelong.</hi>
+                  </l>
+                  <l>With him aſcend near thirty Officers,</l>
+                  <l>Beſides the Boys prepar'd for Meſſengers.</l>
+                  <l>
+                     <hi>Noble</hi> and <hi>Holmes</hi> and the brave <hi>Dumbar,</hi>
+                  </l>
+                  <l>His true Companions in the Feats of War.</l>
+                  <l>Thus in the Even our valiant Gen'ral ſail'd,</l>
+                  <l>Tho' from their Battr'ies ſhowers of bullets hail'd;</l>
+                  <l>Which to eſchew, he made up to their ſhore,</l>
+                  <l>Where they had planted ſome Dragoons before.</l>
+                  <pb n="64" facs="tcp:98828:36"/>
+                  <l>Thoſe he beat off and ſail'd to <hi>Donnelong,</hi>
+                  </l>
+                  <l>Though at the Barge they fired all along.</l>
+                  <l>The noiſe of Oars had giv'n them th'alar'm,</l>
+                  <l>And yet we ſail'd five Miles without all harm.</l>
+                  <l>But all in vain, their guards on every ſide,</l>
+                  <l>Forc'd our Hero's return with ebbing tyde.</l>
+                  <l>As we return'd the Enemy mann'd out,</l>
+                  <l>Two large Boats fill'd with ſome Dragoons on foot;</l>
+                  <l>Th'one Star-board, the other us Lar-board hall'd:</l>
+                  <l>But Pilot <hi>Pogue</hi> with his wide drake them Maul'd;</l>
+                  <l>For as they thought to board our Barge, then he,</l>
+                  <l>Fir'd off ſmall ſhot amongſt their company.</l>
+                  <l>Which Boat ſhear'd off with ſeveral perſons ſlain,</l>
+                  <l>We board the other and them Pris'ners ta'ne.</l>
+                  <l>They fought us ſtoutly with their Swords in hand,</l>
+                  <l>We ſlew the one half, and their Boat Command.</l>
+                  <l>At Sun-riſeing we land at <hi>Ferry</hi>-Key,</l>
+                  <l>And in their Boat near thirteen dead men lay;</l>
+                  <l>Thirteen we took alive; then ſtraight we ſail'd</l>
+                  <l>To to'ther ſide and Lord <hi>Louths</hi> Camp aſſail'd.</l>
+                  <l>We beat them from a Trench &amp; took their Arms,</l>
+                  <l>And ſome courſe Loaves, this their whole Camp Alarms.</l>
+                  <l>Yet we returned in ſafety to the Town,</l>
+                  <l>The truth whereof is to the City known.</l>
+                  <l>The Pris'ners taken aboard, we detain,</l>
+                  <l>And forc'd them daily to interr their ſlain,</l>
+                  <l>On <hi>Windmill-Hill;</hi> for their fat Bodies ſent</l>
+                  <l>A Noiſome ſmell, to our great Detriment.</l>
+               </div>
+               <div n="5" type="section">
+                  <pb n="65" facs="tcp:98828:36"/>
+                  <head>Sect, 5. Glencarty's <hi>Bravado.</hi>
+                  </head>
+                  <l>
+                     <hi>Glencarty</hi> with two thouſand men of might,</l>
+                  <l>Came up to ſtorm the Butchers Gate at night.</l>
+                  <l>Come out ye Dogs, quoth he, why do you ſleep?</l>
+                  <l>But from the Walls they made his Forces weep;</l>
+                  <l>More than the half were ſlain, the reſt retreat,</l>
+                  <l>For ſix brave Captains came from <hi>Biſhops-Gate.</hi>
+                  </l>
+                  <l>
+                     <hi>Kennedy, Dumbar, Baird, Noble</hi> and <hi>Grahm,</hi>
+                  </l>
+                  <l>With young <hi>Murray,</hi> who did their courage tame.</l>
+                  <l>Their great deſign was to place Ingeniers</l>
+                  <l>To undermine the Walls, as then appears.</l>
+                  <l>Some we ſurpriz'd at work and others ſlew,</l>
+                  <l>Thus we the Lord <hi>Glencarty's</hi> brags o'rethrew.</l>
+               </div>
+               <div n="6" type="section">
+                  <head>
+                     <hi>Sect. 6.</hi> The Scarcity of Food and Peſtilential Feaver.</head>
+                  <l>ABout this time the raging Feaver reign'd,</l>
+                  <l>Which multitudes of the Towns people drain'd.</l>
+                  <l>It was occaſion'd by the want of Food</l>
+                  <l>And uncouth Dyet which enflam'd the blood.</l>
+                  <l>For ſome eat Starch, others on Tallow live,</l>
+                  <l>At length for Victuals the Ox-hide they give.</l>
+                  <l>And ſome eat Dogs, others on Horſes fed,</l>
+                  <l>The ſprightly Geldings to the ſlaughter led.</l>
+                  <pb n="66" facs="tcp:98828:37"/>
+                  <l>A Cats a Ladies feaſt thô ne're ſo thin,</l>
+                  <l>Though you might count all the Ribs in her skin.</l>
+                  <l>A Swallow's ſold for eighteen pence and more;</l>
+                  <l>Then you may judge what became of the Poor.</l>
+                  <l>Some Horſes Blood did eat, who now diſdain,</l>
+                  <l>To eat good Mutton if not lately ſlain.</l>
+                  <l>Such Food to the veins corrupt blood commends;</l>
+                  <l>Which in a Peſtilential Feaver ends.</l>
+               </div>
+               <div n="7" type="section">
+                  <head>Sect. 7. <hi>Governour</hi> Baker <hi>Sickens.</hi>
+                  </head>
+                  <l>THis diſmal Feaver ſeiz'd our Governour,</l>
+                  <l>Whom the Phyſitians in few days gave o're.</l>
+                  <l>Thus the Great <hi>Baker</hi> fails: we then propoſe,</l>
+                  <l>A ſucceſſor but none the Council choſe.</l>
+                  <l>They it referr to the dying Governour,</l>
+                  <l>He <hi>Mitchelburn</hi> nam'd for his ſucceſſour.</l>
+                  <l>'Gainſt which the Council never ſpoke a word,</l>
+                  <l>For they were preſs'd by Famine and the Sword;</l>
+                  <l>Then in all haſte to <hi>Mitchelburn</hi> is ſent,</l>
+                  <l>An Order to releaſe his confinement.</l>
+                  <l>To juſtifie his Zeal, when he aſcends</l>
+                  <l>The Chair, he for three thouſand Men demands;</l>
+                  <l>To ſally forth and to oppoſe the Foes,</l>
+                  <l>With them into the Biſhops Parks he goes;</l>
+                  <l>In the mean time, the Enemy appear,</l>
+                  <l>In a Body and ſome Horſe in their rear;</l>
+                  <pb n="66" facs="tcp:98828:37"/>
+                  <l>The wiſe Commander thought it beſt to ſhun</l>
+                  <l>Unequal Combat, to retire begun.</l>
+                  <l>Yet this retreat ſuch Conſternation bred,</l>
+                  <l>That ſome with Arms, and ſome without 'em fled.</l>
+               </div>
+               <div n="8" type="section">
+                  <head>
+                     <hi>Sect. 8.</hi> The Bombarding of the City.</head>
+                  <l>THe Council and the Governours decree,</l>
+                  <l>That all the Off'cers ſhould together be,</l>
+                  <l>Captains in one place, Lieut'nants in another,</l>
+                  <l>The Enſigns in a third and ſo in order:</l>
+                  <l>That they might be in readineſs at call,</l>
+                  <l>To ſally forth or to defend the Wall.</l>
+                  <l>This was hard ſervice ev'ry one may judge,</l>
+                  <l>Yet no man did at this hard ſervice grudge.</l>
+                  <l>The Iriſh likewiſe preſt them with their Booms,</l>
+                  <l>Which forc'd all People to forſake their Rooms.</l>
+                  <l>The dreadful Booms the ſickly people's toyl,</l>
+                  <l>Both night and day our ſtately Buildings ſpoil.</l>
+                  <l>The Towns one heap of Rubbiſh many dye,</l>
+                  <l>By this dire art, witneſs the Charging Boy:</l>
+                  <l>Whilſt he lay ſleeping on his fatal Bed,</l>
+                  <l>A dreadful Boom through his great body fled.</l>
+                  <l>Thus Alderman <hi>Thompſon</hi> dy'd: and many more:</l>
+                  <l>Hot Balls they likewiſe threw from t'other ſhoar.</l>
+                  <l>This is the hardſhip of a Town beſieg'd:</l>
+                  <l>Who dyes in Battle, to the Fo's oblig'd.</l>
+                  <l>Yet we do own the providence of God,</l>
+                  <l>Who exercis'd us with this heavy rod;</l>
+                  <pb n="67" facs="tcp:98828:38"/>
+                  <l>Though all the Houſes of the Town were ſlapt,</l>
+                  <l>By dreadful Booms; <hi>Columba's</hi> Church eſcap't;</l>
+                  <l>Wherein great ſtore of Ammunition lay,</l>
+                  <l>And where the Church and Kirk did jointly pray.</l>
+                  <l>In all <hi>Columba</hi>'s Church, no dammage's found,</l>
+                  <l>Yet the Booms tore the dead out of the ground.</l>
+                  <l>For at this ſacred place they daily aim'd,</l>
+                  <l>Where we protection from God hourly claim'd.</l>
+                  <l>Yet all theſe hardſhips did not move the Town,</l>
+                  <l>To quit the Int'reſt of the Engliſh Crown.</l>
+                  <l>But all theſe are not for to be compar'd,</l>
+                  <l>To want of food, when a poor Mouſe is ſhar'd,</l>
+                  <l>Betwixt the tender Parent and the Child,</l>
+                  <l>All kinds of death, to that of hunger's mild.</l>
+                  <l>Theſe they endured to a miracle,</l>
+                  <l>And ought to be ſet down in Chronicle.</l>
+               </div>
+               <div n="9" type="section">
+                  <head>
+                     <hi>Sect. 9.</hi> The driving of the Proteſtants to the Walls, to move the City to yield.</head>
+                  <l>THe Iriſh ſtill of Stratagems have more,</l>
+                  <l>To move the City their defence give o're.</l>
+                  <l>They gath'red all the Proteſtants that were,</l>
+                  <l>In three Counties and forc'd them to repair,</l>
+                  <l>Unto our Walls, both Man and Mothers Son;</l>
+                  <l>And hemm'd them in with a Battalion;</l>
+                  <pb n="68" facs="tcp:98828:38"/>
+                  <l>This mov'd the Town to ſee their friends ſo dear,</l>
+                  <l>Before their face in this ſad caſe appear,</l>
+                  <l>Not having wherewith to ſupply their want,</l>
+                  <l>That they were 14 Thouſand all men grant.</l>
+                  <l>Yet theſe poor people begg'd it as a Boon,</l>
+                  <l>That we would not deliver up the Town;</l>
+                  <l>They'd rather ſuffer many a diſmal blow,</l>
+                  <l>Then we ſhould yield the City to the Foe.</l>
+                  <l>We beat a Parlee: Gen'ral <hi>Roſe</hi> did ſhow,</l>
+                  <l>His Orders from the King and Council's ſo.</l>
+                  <l>To whom the Town replies, ſend theſe folks home,</l>
+                  <l>Or we'll hang up our pris'ners ev'ry one.</l>
+                  <l>Upon the Royal Baſtion we erect;</l>
+                  <l>A ſtately Gallows in the Foes proſpect,</l>
+                  <l>This mov'd the Iriſh to compaſſion,</l>
+                  <l>Then the next day they ſent the People home;</l>
+                  <l>A thouſand of our ſick went out with thoſe,</l>
+                  <l>We in their ſtead as many freſh men choſe.</l>
+                  <l>Great <hi>Mitchelburn</hi> and <hi>Murray</hi> had decreed,</l>
+                  <l>If th'enemy had not the people freed,</l>
+                  <l>To arm the Men and with the Garriſon,</l>
+                  <l>To give Battle to Gen'ral <hi>Hamilton.</hi>
+                  </l>
+                  <l>This was a modern Stratagem of War:</l>
+                  <l>In Hiſtory no ſuch examples are.</l>
+               </div>
+               <div n="10" type="section">
+                  <pb n="69" facs="tcp:98828:39"/>
+                  <head>
+                     <hi>Sect. 10.</hi> Governor <hi>Baker's</hi> Death and Character.</head>
+                  <l>ABout this time the Noble <hi>Baker</hi> dyes,</l>
+                  <l>His Loyal Soul to his Creator flies;</l>
+                  <l>He's much lamented and admir'd by all,</l>
+                  <l>Who knew his Merits for they were not ſmall.</l>
+                  <l>The Town he Govern'd with aſſiduous care,</l>
+                  <l>Was ſound in Council and expert in War.</l>
+                  <l>Loyal and faithful to our Sov'reign King,</l>
+                  <l>True to the Prot'ſtant Cauſe in ev'ry thing;</l>
+                  <l>Great was his ſtrength of Body, but his Soul,</l>
+                  <l>Did greater Actions, which none dare controul.</l>
+                  <l>True to his Friend; and faithful to his truſt,</l>
+                  <l>Upright in dealing and to all men juſt.</l>
+                  <l>In ſolemn manner, we his Corps interr,</l>
+                  <l>As it became a Valiant Man of War.</l>
+                  <l>A Funeral Sermons preacht, the Bells did ring,</l>
+                  <l>And treble Volleys did his praiſes ſing.</l>
+                  <l>Lieutenant <hi>Dalton</hi> was his faithful friend,</l>
+                  <l>And Counſellour, what e're he did intend.</l>
+               </div>
+               <div n="10" type="section">
+                  <head>
+                     <hi>Sect. 10.</hi> A Treaty of Surrendring propos'd by the Enemy.</head>
+                  <l>THen <hi>Hamilton</hi> Bombards us in our lines,</l>
+                  <l>To beat us out of which he then deſigns;</l>
+                  <l>But ſeeing us ready to receive their Fire,</l>
+                  <l>With his advanced Troops he doth retire.</l>
+                  <l>Then great diſtreſs upon the City falls,</l>
+                  <l>For on the North, the Foe lay near the Walls.</l>
+                  <pb n="70" facs="tcp:98828:39"/>
+                  <l>Our want of food did the Towns council force</l>
+                  <l>To ſlay 'bove fifty of our fatteſt Horſe.</l>
+                  <l>And in few days, we muſt yield up the Town;</l>
+                  <l>When lo! the Enemy a Parly ſound.</l>
+                  <l>To treat of Peace Commiſſioners were ſent,</l>
+                  <l>We to ſurrender on theſe Terms conſent.</l>
+                  <l>If they would grant us twenty days reſpit,</l>
+                  <l>And their Hoſtages to our Ships commit;</l>
+                  <l>Then ſafely to conduct us to the Fleet,</l>
+                  <l>With all the honour for brave Soldiers meet.</l>
+                  <l>Theſe they reject: our Delegates return,</l>
+                  <l>And they the Treaty to next day adjourn.</l>
+                  <l>To quit the Town and Arms they offer all,</l>
+                  <l>That the beſt Subjects of the Kingdom ſhall</l>
+                  <l>Enjoy, our Church, Eſtates, and reparation,</l>
+                  <l>That ev'ry man repair to his own Station.</l>
+                  <l>By Collonel <hi>Hammil, Lance</hi> and Campbel, we</l>
+                  <l>A flat refuſal of theſe ſignify.</l>
+                  <l>And to convince them of our true intent,</l>
+                  <l>
+                     <hi>Murray</hi> with ſome gallant Battalions went;</l>
+                  <l>T'attack them in their Lines towards <hi>Rapho,</hi>
+                  </l>
+                  <l>
+                     <hi>Waughop, Oneal</hi> and <hi>Galmoy</hi> felt the blow;</l>
+                  <l>The Name of <hi>Murray</hi> grew ſo terrible,</l>
+                  <l>That he alone was thought invincible:</l>
+                  <l>Where e're he came the Iriſh fled away,</l>
+                  <l>And left the Field unto the Engliſh ſway.</l>
+                  <l>The Valiant <hi>Noble</hi> to their Trenches flew,</l>
+                  <l>And with ſmart firing ſeveral Perſons ſlew.</l>
+               </div>
+               <div n="11" type="section">
+                  <pb n="71" facs="tcp:98828:40"/>
+                  <head>
+                     <hi>Sect. 11.</hi> The Walls at <hi>Butchers-Gate</hi> Stormed and Colonel <hi>Murray</hi> Wounded.</head>
+                  <l>IN a few days their Foot and Granadeer,</l>
+                  <l>To ſtorm our Walls at <hi>Butchers-Gate</hi> appear:</l>
+                  <l>The Storm was fierce; then <hi>Murray</hi> ſallies out,</l>
+                  <l>At <hi>Biſhops-Gate</hi> and put them to the rout;</l>
+                  <l>Brave <hi>Bellifatt'n</hi> fell briskly on their flank,</l>
+                  <l>And with his men o'rethrew both File and Rank.</l>
+                  <l>We them purſu'd into their Trenches ſtrong,</l>
+                  <l>And ne're bethought us, till we were among,</l>
+                  <l>Their ſtrongeſt body, valiant <hi>Murray</hi> fought,</l>
+                  <l>And hew'd down hundreds, which his ruine ſought;</l>
+                  <l>Till a fierce Bullet through his Body paſt;</l>
+                  <l>Then we retreated to the Town at laſt.</l>
+                  <l>Our wounded Gen'ral on his feet came back,</l>
+                  <l>And ne're complained that he Blood did lack;</l>
+                  <l>Brave <hi>James Murray</hi> a volunteer is ſlain,</l>
+                  <l>Who in all actions did applauſes gain.</l>
+                  <l>In a few hours, <hi>Coghran</hi> revenge demands,</l>
+                  <l>And in their Lines with a Battalion ſtands:</l>
+                  <l>Captain <hi>Wilſon</hi> and <hi>Mackollogh</hi> gave their aid,</l>
+                  <l>Who in their lines a horrid ſlaughter made;</l>
+                  <l>And to their Gen'ral this great ſervice paid.</l>
+                  <l>His Wound was great, but by the mighty Skill,</l>
+                  <l>Of Dr. <hi>Aickin</hi> and <hi>Herman</hi> he grew well,</l>
+                  <pb n="72" facs="tcp:98828:40"/>
+                  <l>In ſeven weeks time; this was our laſt ſally,</l>
+                  <l>For Couns'lor <hi>Cairnes</hi> arriv'd immediately,</l>
+                  <l>And brought an Expreſs from his Majeſty;</l>
+                  <l>Commanding <hi>Kirk</hi> for to relieve the Town,</l>
+                  <l>To guard ſome Tranſports from the Fort &amp; Boom.</l>
+               </div>
+               <div n="12" type="section">
+                  <head>
+                     <hi>Sect. 12.</hi> Captain <hi>Browning</hi> and Captain <hi>Dowglas</hi> relieve the Town, with two Merchant Ships and the <hi>Dart<g ref="char:EOLhyphen"/>mouth</hi> Frigat.</head>
+                  <l>THen in all haſte two Merchant Ships are ſent.</l>
+                  <l>With all proviſions for the ſame intent.</l>
+                  <l>The <hi>Dartmouth</hi> Frigat, with the ſaid effects</l>
+                  <l>The Merchant Ships againſt the Fort protects.</l>
+                  <l>The valiant <hi>Browning</hi> Native of the Town,</l>
+                  <l>With flowing tyde attack the horrid Boom,</l>
+                  <l>And a full Gale, the Ship is joſled back,</l>
+                  <l>But with her ſide ſhe made a freſh attack;</l>
+                  <l>The wind and tyde with a moſt violent courſe,</l>
+                  <l>The Beams and Cable into pieces force;</l>
+                  <l>The Ship ſail'd on, but <hi>Browning</hi> loſt his life,</l>
+                  <l>A diſmal ſtory to his tender Wife.</l>
+                  <l>Then <hi>Dowglaſs</hi> in the <hi>Phoenix</hi> ſafely ſails,</l>
+                  <l>Though from both ſhoars a ſhower of Bullets hai<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>The Fort and Boom are paſt yet thouſands more</l>
+                  <l>Of deaths fly ſwiftly from the Neigh'bring ſho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</l>
+                  <pb n="73" facs="tcp:98828:41"/>
+                  <l>Each ſide the River planted cannon play,</l>
+                  <l>With which a power of the Ships crew they ſlay;</l>
+                  <l>When they had paſt the Boom, the Wind it fail'd:</l>
+                  <l>Then with their Boats &amp; Oars the Ships they hal'd.</l>
+                  <l>Mean time the En'my ply them with ſmall ſhot,</l>
+                  <l>The bold Tarpallian dyes upon the ſpot;</l>
+                  <l>At ev'ry bounce the En'mies Cannon gave,</l>
+                  <l>The hungry people 'gainſt the En'my rave.</l>
+                  <l>Yet fav'ring Heaven the Merchant Ships defends;</l>
+                  <l>And our proviſions to the Harbour ſends:</l>
+                  <l>The' unlade in haſte the Engliſh Beef and Cheeſe,</l>
+                  <l>Bacon and Butter, Brandy, Pork and Peaſe.</l>
+                  <l>By <hi>Dowglaſs, Scotland</hi> plenty of Oatmeal ſends,</l>
+                  <l>Which to their Suff'ring Brethren them commends.</l>
+                  <l>The Governours divide the joyful Store,</l>
+                  <l>And equal portions give to Rich and Poor.</l>
+                  <l>The Towns o'rejoy'd, the thundring Cannons roar,</l>
+                  <l>The Bells do ring, and Bonefires the Town o're.</l>
+               </div>
+               <div n="13" type="section">
+                  <head>
+                     <hi>Sect. 13.</hi> The Service of our Cannon from the Church-ſteeple and Bulwarks.</head>
+                  <l>IN all attacks our Gunners play'd their parts,</l>
+                  <l>For from the Walls they tam'd the En'mies hearts,</l>
+                  <l>Eight <hi>Sakers</hi> and twelve <hi>Demiculverin</hi>
+                  </l>
+                  <l>Diſcharg'd their fury daily from within.</l>
+                  <pb n="74" facs="tcp:98828:41"/>
+                  <l>Againſt the En'mies Camps on ev'ry ſide,</l>
+                  <l>Which furiouſly amongſt their forces glide.</l>
+                  <l>Brave <hi>Watſon</hi> fir'd upon their ſtrongeſt Ranks,</l>
+                  <l>And ſwept off Files from the En'mies Flanks;</l>
+                  <l>Lieutenant <hi>Crookshanks</hi> diſmounts from our walls</l>
+                  <l>The En'mies Cannon which upon us falls</l>
+                  <l>At <hi>Pennyburn-Mill.</hi> And Captain <hi>Gregory,</hi>
+                  </l>
+                  <l>From the Church Steeple ſlays the Enemy.</l>
+                  <l>At both Attacks of <hi>Windmill-Hill,</hi> and from</l>
+                  <l>The Royal and the Double Baſtion.</l>
+                  <l>
+                     <hi>James Murray</hi> from the Northern Baſtions,</l>
+                  <l>Near <hi>Elah</hi> hurt the Foes Battallions.</l>
+                  <l>
+                     <hi>Robert Stev'<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſon</hi> ne're miſt the Enemy,</l>
+                  <l>But furiouſly amongſt their Troops lets fly.</l>
+                  <l>Lieutenant <hi>Dyell</hi> and ſome brave Seamen,</l>
+                  <l>Did from the walls ſlay many on the plain;</l>
+                  <l>Lieutenant <hi>Evins</hi> praiſe ſhall now be told,</l>
+                  <l>Who in all actions was both brave and bold:</l>
+                  <l>Thô ſev'nty years of age, he ſtoutly fought</l>
+                  <l>At ſev'ral Battles, and young Souldiers taught:</l>
+                  <l>Until a Bullet pierc't his hardy Breaſt,</l>
+                  <l>Yet he returned bravely with the reſt:</l>
+                  <l>To ſave his Life, his tender Daughter found</l>
+                  <l>The ſafeſt Courſe, to ſuck his bloody Wound.</l>
+                  <l>He laid in Stores, and willingly attends,</l>
+                  <l>And loſt 'bove twenty of his deareſt Friends.</l>
+                  <l>Of all the Powder which from <hi>England</hi> came,</l>
+                  <l>Five hundred Barrels, eighty ſcarce remain,</l>
+                  <pb n="75" facs="tcp:98828:42"/>
+                  <l>And <hi>Scotland</hi> likewiſe fifty barrels ſent,</l>
+                  <l>All which againſt the Enemy we ſpent.</l>
+               </div>
+               <div n="15" type="section">
+                  <head>
+                     <hi>Sect. 15.</hi> The Enemy withdraw their Siege, and Major General <hi>Kirk</hi> marches the Engliſh Forces to <hi>Dery.</hi>
+                  </head>
+                  <lg>
+                     <l>THeſe joyful Stores the Iriſh army awe,</l>
+                     <l>Then in the Night they ſilently withdraw;</l>
+                     <l>In greateſt haſte to <hi>Dublin</hi> they return,</l>
+                     <l>And all along our ſtrongeſt Buildings burn.</l>
+                     <l>They gather'd all the Papiſts from our coaſt,</l>
+                     <l>And made them march along with th' Iriſh Hoſt.</l>
+                     <l>Then <hi>Kirk</hi> with th'<hi>Engliſh</hi> Troops his march commenc'd</l>
+                     <l>From <hi>Inch,</hi> and to our ruin'd <hi>town advanc'd.</hi>
+                     </l>
+                     <l>Sir <hi>Matthew Bridges</hi> Houſe and Gardens all,</l>
+                     <l>Were quite deſtroy'd by the En'my at <hi>Brookhall.</hi>
+                     </l>
+                     <l>The large and ſpacious ſuburbs were burnt down,</l>
+                     <l>Which was a great Detriment to the Town:</l>
+                     <l>Their Houſes and their Goods deſtroy'd were,</l>
+                     <l>Both by the Booms and Cannon in the War.</l>
+                     <l>Their fruitful Parks and Suburb-Gardens fell,</l>
+                     <l>Them to the Ground the Enemy Levell.</l>
+                     <l>Their Debitors were ſlain, and Debts were loſt,</l>
+                     <l>A hundred thouſand pounds ſcarce quit the coſt.</l>
+                     <l>The rich Inhabitants were turn'd to poor,</l>
+                     <l>Which liv'd like Princes on their wealth before.</l>
+                     <pb n="76" facs="tcp:98828:42" rendition="simple:additions"/>
+                     <l>In this Condition <hi>Kirk</hi> did ſee the T<gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>,</l>
+                     <l>The truth whereof is to the world known.</l>
+                     <l>
+                        <hi>Mitchelburn</hi> Governour he did Decree,</l>
+                     <l>And ſent great <hi>Walker</hi> to His Majeſty;</l>
+                     <l>Whoſe benign Stars did influence our heart,</l>
+                     <l>And wa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mth and vigour to our Souls impart</l>
+                     <l>His infant reign produc'd this noble act,</l>
+                     <l>And yearly greater Trophies did contract:</l>
+                     <l>Witneſs the <hi>Boyne, Athlone</hi> and dire <hi>Aghrim,</hi>
+                     </l>
+                     <l>
+                        <hi>Lim'rick</hi> and all the Kingdom gain'd by him,</l>
+                     <l>May fav'ring Heaven preſerve his precious breath,</l>
+                     <l>And laſting Lawrels round his Temples wreath?</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>THe Work is done,</hi> Apollo <hi>does preſage</hi>
+                     </l>
+                     <l>
+                        <hi>The Succeſs of it, in the future Age.</hi>
+                     </l>
+                     <l>Zoilus <hi>himſelf dare not the Actions blame:</hi>
+                     </l>
+                     <l>
+                        <hi>The Author values not a Poets Fame.</hi>
+                     </l>
+                     <l>
+                        <hi>He wrote it for the ſober Men of Senſe;</hi>
+                     </l>
+                     <l>
+                        <hi>Not for the Beau's or Wits Intelligence.</hi>
+                     </l>
+                     <l>
+                        <hi>If</hi> Jove <hi>and they approve the former Words:</hi>
+                     </l>
+                     <l>
+                        <hi>His</hi> Hero's <hi>will defend it with their Swords.</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98828:43" rendition="simple:additions"/>
+            <pb facs="tcp:98828:43"/>
+         </div>
+      </body>
+   </text>
+</TEI>
